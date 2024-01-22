@@ -13,7 +13,7 @@ cv2.namedWindow(window)
 # Establece winSize dentro de lk_params:
 lk_params = dict(winSize=(50, 50), maxLevel=4, criteria=(cv2.TERM_CRITERIA_EPS | cv2.TERM_CRITERIA_COUNT, 10, 0.001))
 
-# Inicializar algunas variables
+# Inicializar algunas variables w
 old_gray = None
 p0 = None
 

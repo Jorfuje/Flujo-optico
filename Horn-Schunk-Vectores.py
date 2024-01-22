@@ -40,11 +40,11 @@ if __name__ == "__main__":
 
         # Ajusta la escala y grosor de los vectores
         scale_factor = 500
-        thickness = 2
+        thickness = 1
 
         # Dibuja los vectores con líneas más largas y cabezas más grandes
-        for y in range(0, frame.shape[0], 40):
-            for x in range(0, frame.shape[1], 40):
+        for y in range(0, frame.shape[0], 10):
+            for x in range(0, frame.shape[1], 10):
                 start_point = (x, y)
                 end_point = (int(x + u[y, x] * scale_factor), int(y + v[y, x] * scale_factor))
                 color = (0, 255, 0)

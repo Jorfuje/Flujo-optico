@@ -24,14 +24,14 @@ if __name__ == "__main__":
         if not ret:
             break
 
-        u, v = horn_schunck_real_time(old_frame, frame, 0.02, 1)
+        u, v = horn_schunck_real_time(old_frame, frame, 0.005, 1)
 
         # Ajusta los parámetros según sea necesario para obtener una visualización más clara
         scale_factor = .5
         threshold = 0.1
 
-        for y in range(0, frame.shape[0], 20):
-            for x in range(0, frame.shape[1], 20):
+        for y in range(0, frame.shape[0], 10):
+            for x in range(0, frame.shape[1], 10):
                 if np.abs(u[y, x]) > threshold or np.abs(v[y, x]) > threshold:
                     cv2.arrowedLine(frame, (x, y), (int(x + scale_factor * u[y, x]), int(y + scale_factor * v[y, x])), (0, 255, 0), 1, tipLength=0.5)
 
