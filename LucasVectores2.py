@@ -2,8 +2,8 @@ import cv2
 import numpy as np
 
 window = "Lucas-Kanade Optical Flow"
-video_path = "image.mp4"
-output_video_path = "videos/video.mp4"
+video_path = "video.mp4"
+output_video_path = "videos/LK.mp4"
 
 capture = cv2.VideoCapture(video_path)
 
@@ -12,7 +12,7 @@ width = int(capture.get(cv2.CAP_PROP_FRAME_WIDTH))
 height = int(capture.get(cv2.CAP_PROP_FRAME_HEIGHT))
 
 # Crear un objeto VideoWriter
-fourcc = cv2.VideoWriter_fourcc(*'X264')
+fourcc = cv2.VideoWriter_fourcc(*'mp4v') if cv2.VideoWriter_fourcc(*'mp4v') != -1 else cv2.VideoWriter_fourcc(*'avc1')
 
 output_video = cv2.VideoWriter(output_video_path, fourcc, 15, (width, height))
 
