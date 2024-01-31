@@ -28,7 +28,7 @@ if __name__ == "__main__":
 
         # Ajusta los parámetros según sea necesario para obtener una visualización más clara
         scale_factor = .5
-        threshold = 0.1
+        threshold = 1
 
         for y in range(0, frame.shape[0], 10):
             for x in range(0, frame.shape[1], 10):
