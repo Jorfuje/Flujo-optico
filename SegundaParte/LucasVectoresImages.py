@@ -2,8 +2,8 @@ import cv2
 import numpy as np
 
 # Cargar las dos imágenes
-image1 = cv2.imread("image1.png")
-image2 = cv2.imread("image2.png")
+image1 = cv2.imread("SegundaParte/image1.jpg")
+image2 = cv2.imread("SegundaParte/image2.jpg")
 
 # Obtener el tamaño de las imágenes
 height, width, _ = image1.shape
@@ -43,7 +43,8 @@ for i, (new, old) in enumerate(zip(good_new, good_old)):
         cv2.arrowedLine(result_image, (int(c), int(d)), (int(c + 5 * vector[0]), int(d + 5 * vector[1])), (0, 255, 0), 2)
 
 # Guardar la imagen resultante
-cv2.imwrite("resultado_con_vectores.jpg", result_image)
+cv2.imwrite("output_imageLK.jpg", result_image)
+print("Imagen guardada como:", "output_imageLK.jpg")
 
 # Mostrar la imagen
 cv2.imshow("Resultado con vectores", result_image)

@@ -1,7 +1,16 @@
 import cv2
+import os
 
 # Ruta al archivo de video
-video_path = "LK.mp4"
+#video_path = "Herramientas/video.mp4"
+video_path = "videos/HSF.mp4"
+
+# Carpeta donde se guardarán las imágenes
+output_folder = "imagenes3"
+#output_folder = "imagenes2"
+
+# Crear la carpeta si no existe
+os.makedirs(output_folder, exist_ok=True)
 
 # Abrir el video
 cap = cv2.VideoCapture(video_path)
@@ -19,7 +28,7 @@ while(cap.isOpened()):
         break
 
     # Guardar el fotograma en un archivo de imagen
-    frame_filename = f"frame_{frame_count:04d}.jpg"  # Nombre del archivo de imagen
+    frame_filename = os.path.join(output_folder, f"frame_{frame_count:04d}.jpg")  # Nombre del archivo de imagen
     cv2.imwrite(frame_filename, frame)  # Guardar el fotograma como imagen
 
     # Incrementar el contador de fotogramas
@@ -31,4 +40,5 @@ while(cap.isOpened()):
 # Liberar los recursos
 cap.release()
 
-print("Todos los fotogramas han sido guardados.")
+print("Todos los fotogramas han sido guardados en la carpeta 'imagenes'.")
+

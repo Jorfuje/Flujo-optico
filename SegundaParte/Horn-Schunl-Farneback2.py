@@ -13,7 +13,7 @@ def horn_schunck_real_time(I1, I2, alpha, iterations):
     return u, v
 
 if __name__ == "__main__":
-    video_path = "video.mp4"  # Cambia 'ruta_del_video.mp4' con la ubicación de tu video
+    video_path = "SegundaParte/video.mp4"  # Cambia 'ruta_del_video.mp4' con la ubicación de tu video
     capture = cv2.VideoCapture(video_path)
 
     width = int(capture.get(cv2.CAP_PROP_FRAME_WIDTH))
@@ -22,7 +22,7 @@ if __name__ == "__main__":
     # Crear un objeto VideoWriter
     fourcc = cv2.VideoWriter_fourcc(*'mp4v') if cv2.VideoWriter_fourcc(*'mp4v') != -1 else cv2.VideoWriter_fourcc(*'avc1')
     output_video_path = "videos/HSF.mp4"
-    output_video = cv2.VideoWriter(output_video_path, fourcc, 10, (width, height))
+    output_video = cv2.VideoWriter(output_video_path, fourcc, 30, (width, height))
 
     cv2.namedWindow("Flujo óptico")
 
