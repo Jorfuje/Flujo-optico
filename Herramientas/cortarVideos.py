@@ -2,7 +2,7 @@ import cv2
 import os
 
 # Ruta al archivo de video
-video_path = "Herramientas/video.mp4"
+video_path = "Herramientas/cortado.mp4"
 #video_path = "videos/HSF.mp4"
 
 # Carpeta donde se guardarán las imágenes

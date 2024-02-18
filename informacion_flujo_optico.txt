@@ -1,2016 +1,243 @@
-Para las imágenes imagenes1/image_0059.jpg y imagenes1/image_0060.jpg:
-Total de vectores pintados: 4
-Promedio del tamaño de los vectores: 0.5403614242588413
+Magnitud del vector 60: 0.6190263625058581
+Para las imágenes imagenes1/image_0000.jpg y imagenes1/image_0001.jpg:
+Total de vectores pintados: 1
+Mediana del tamaño de los vectores: 0.6190263625058581
 
-Para las imágenes imagenes1/image_0060.jpg y imagenes1/image_0061.jpg:
-Total de vectores pintados: 9
-Promedio del tamaño de los vectores: 1.975228891085962
+Magnitud del vector 55: 2.5853818076407746
+Para las imágenes imagenes1/image_0003.jpg y imagenes1/image_0004.jpg:
+Total de vectores pintados: 1
+Mediana del tamaño de los vectores: 2.5853818076407746
 
-Para las imágenes imagenes1/image_0062.jpg y imagenes1/image_0063.jpg:
-Total de vectores pintados: 9
-Promedio del tamaño de los vectores: 1.7222050860469742
+Magnitud del vector 29: 0.7573875198880631
+Para las imágenes imagenes1/image_0004.jpg y imagenes1/image_0005.jpg:
+Total de vectores pintados: 1
+Mediana del tamaño de los vectores: 0.7573875198880631
 
-Para las imágenes imagenes1/image_0063.jpg y imagenes1/image_0064.jpg:
-Total de vectores pintados: 10
-Promedio del tamaño de los vectores: 1.532833332982739
-
-Para las imágenes imagenes1/image_0064.jpg y imagenes1/image_0065.jpg:
-Total de vectores pintados: 16
-Promedio del tamaño de los vectores: 2.9676957099594388
-
-Para las imágenes imagenes1/image_0066.jpg y imagenes1/image_0067.jpg:
-Total de vectores pintados: 14
-Promedio del tamaño de los vectores: 1.219238567620175
-
-Para las imágenes imagenes1/image_0067.jpg y imagenes1/image_0068.jpg:
-Total de vectores pintados: 17
-Promedio del tamaño de los vectores: 1.1928967735038905
-
-Para las imágenes imagenes1/image_0069.jpg y imagenes1/image_0070.jpg:
-Total de vectores pintados: 19
-Promedio del tamaño de los vectores: 1.3632706955511498
-
-Para las imágenes imagenes1/image_0070.jpg y imagenes1/image_0071.jpg:
-Total de vectores pintados: 20
-Promedio del tamaño de los vectores: 1.3082425471393182
-
-Para las imágenes imagenes1/image_0071.jpg y imagenes1/image_0072.jpg:
-Total de vectores pintados: 15
-Promedio del tamaño de los vectores: 1.2268629877086783
-
-Para las imágenes imagenes1/image_0073.jpg y imagenes1/image_0074.jpg:
-Total de vectores pintados: 18
-Promedio del tamaño de los vectores: 1.2419009539653176
-
-Para las imágenes imagenes1/image_0074.jpg y imagenes1/image_0075.jpg:
-Total de vectores pintados: 17
-Promedio del tamaño de los vectores: 1.4615333227742862
-
-Para las imágenes imagenes1/image_0075.jpg y imagenes1/image_0076.jpg:
-Total de vectores pintados: 25
-Promedio del tamaño de los vectores: 1.4999434618375584
-
-Para las imágenes imagenes1/image_0077.jpg y imagenes1/image_0078.jpg:
-Total de vectores pintados: 26
-Promedio del tamaño de los vectores: 2.3551439955043776
-
-Para las imágenes imagenes1/image_0078.jpg y imagenes1/image_0079.jpg:
-Total de vectores pintados: 18
-Promedio del tamaño de los vectores: 2.8845534851407884
-
-Para las imágenes imagenes1/image_0080.jpg y imagenes1/image_0081.jpg:
-Total de vectores pintados: 18
-Promedio del tamaño de los vectores: 2.8541736190451354
-
-Para las imágenes imagenes1/image_0081.jpg y imagenes1/image_0082.jpg:
-Total de vectores pintados: 15
-Promedio del tamaño de los vectores: 3.8419879514077584
-
-Para las imágenes imagenes1/image_0082.jpg y imagenes1/image_0083.jpg:
-Total de vectores pintados: 14
-Promedio del tamaño de los vectores: 2.976584229963924
-
-Para las imágenes imagenes1/image_0084.jpg y imagenes1/image_0085.jpg:
-Total de vectores pintados: 15
-Promedio del tamaño de los vectores: 3.417992215779316
-
-Para las imágenes imagenes1/image_0085.jpg y imagenes1/image_0086.jpg:
-Total de vectores pintados: 9
-Promedio del tamaño de los vectores: 1.6388971699784016
-
-Para las imágenes imagenes1/image_0087.jpg y imagenes1/image_0088.jpg:
+Magnitud del vector 9: 0.533195217228072
+Magnitud del vector 20: 0.5492495908368386
+Magnitud del vector 31: 0.5780054182987959
+Magnitud del vector 35: 0.6428991817568865
+Magnitud del vector 62: 0.5822823344622339
+Magnitud del vector 76: 1.2267596501038436
+Para las imágenes imagenes1/image_0006.jpg y imagenes1/image_0007.jpg:
 Total de vectores pintados: 6
-Promedio del tamaño de los vectores: 0.878807918167312
+Mediana del tamaño de los vectores: 0.5801438763805149
 
-Para las imágenes imagenes1/image_0088.jpg y imagenes1/image_0089.jpg:
-Total de vectores pintados: 4
-Promedio del tamaño de los vectores: 3.0835543008822315
-
-Para las imágenes imagenes1/image_0091.jpg y imagenes1/image_0092.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.5923751414332659
-
-Para las imágenes imagenes1/image_0092.jpg y imagenes1/image_0093.jpg:
-Total de vectores pintados: 6
-Promedio del tamaño de los vectores: 0.5861871230845276
-
-Para las imágenes imagenes1/image_0094.jpg y imagenes1/image_0095.jpg:
-Total de vectores pintados: 2
-Promedio del tamaño de los vectores: 1.457312911142211
-
-Para las imágenes imagenes1/image_0095.jpg y imagenes1/image_0096.jpg:
-Total de vectores pintados: 3
-Promedio del tamaño de los vectores: 0.7301940892234207
-
-Para las imágenes imagenes1/image_0096.jpg y imagenes1/image_0097.jpg:
-Total de vectores pintados: 2
-Promedio del tamaño de los vectores: 1.5077603245332263
-
-Para las imágenes imagenes1/image_0098.jpg y imagenes1/image_0099.jpg:
-Total de vectores pintados: 4
-Promedio del tamaño de los vectores: 1.569444842781774
-
-Para las imágenes imagenes1/image_0099.jpg y imagenes1/image_0100.jpg:
-Total de vectores pintados: 2
-Promedio del tamaño de los vectores: 1.0367255869028644
-
-Para las imágenes imagenes1/image_0101.jpg y imagenes1/image_0102.jpg:
-Total de vectores pintados: 2
-Promedio del tamaño de los vectores: 0.9556800549839798
-
-Para las imágenes imagenes1/image_0102.jpg y imagenes1/image_0103.jpg:
-Total de vectores pintados: 4
-Promedio del tamaño de los vectores: 0.9994544465035853
-
-Para las imágenes imagenes1/image_0103.jpg y imagenes1/image_0104.jpg:
-Total de vectores pintados: 2
-Promedio del tamaño de los vectores: 0.6596032893552486
-
-Para las imágenes imagenes1/image_0178.jpg y imagenes1/image_0179.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.5687797900399973
-
-Para las imágenes imagenes1/image_0191.jpg y imagenes1/image_0192.jpg:
-Total de vectores pintados: 2
-Promedio del tamaño de los vectores: 0.5663179932549118
-
-Para las imágenes imagenes1/image_0194.jpg y imagenes1/image_0195.jpg:
-Total de vectores pintados: 4
-Promedio del tamaño de los vectores: 0.6085417127573362
-
-Para las imágenes imagenes1/image_0195.jpg y imagenes1/image_0196.jpg:
-Total de vectores pintados: 5
-Promedio del tamaño de los vectores: 1.1024109973453433
-
-Para las imágenes imagenes1/image_0196.jpg y imagenes1/image_0197.jpg:
-Total de vectores pintados: 4
-Promedio del tamaño de los vectores: 2.6890896668073916
-
-Para las imágenes imagenes1/image_0197.jpg y imagenes1/image_0198.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.5997997218768508
-
-Para las imágenes imagenes1/image_0198.jpg y imagenes1/image_0199.jpg:
-Total de vectores pintados: 9
-Promedio del tamaño de los vectores: 4.05526818786751
-
-Para las imágenes imagenes1/image_0199.jpg y imagenes1/image_0200.jpg:
-Total de vectores pintados: 9
-Promedio del tamaño de los vectores: 4.803379492123399
-
-Para las imágenes imagenes1/image_0201.jpg y imagenes1/image_0202.jpg:
-Total de vectores pintados: 9
-Promedio del tamaño de los vectores: 5.04398041341172
-
-Para las imágenes imagenes1/image_0202.jpg y imagenes1/image_0203.jpg:
-Total de vectores pintados: 12
-Promedio del tamaño de los vectores: 4.002914252057621
-
-Para las imágenes imagenes1/image_0203.jpg y imagenes1/image_0204.jpg:
-Total de vectores pintados: 13
-Promedio del tamaño de los vectores: 3.201851988079701
-
-Para las imágenes imagenes1/image_0205.jpg y imagenes1/image_0206.jpg:
-Total de vectores pintados: 10
-Promedio del tamaño de los vectores: 2.9773463968838536
-
-Para las imágenes imagenes1/image_0206.jpg y imagenes1/image_0207.jpg:
-Total de vectores pintados: 10
-Promedio del tamaño de los vectores: 2.3986122604792293
-
-Para las imágenes imagenes1/image_0208.jpg y imagenes1/image_0209.jpg:
-Total de vectores pintados: 9
-Promedio del tamaño de los vectores: 1.8995218388834618
-
-Para las imágenes imagenes1/image_0209.jpg y imagenes1/image_0210.jpg:
-Total de vectores pintados: 8
-Promedio del tamaño de los vectores: 1.5898916216917547
-
-Para las imágenes imagenes1/image_0210.jpg y imagenes1/image_0211.jpg:
-Total de vectores pintados: 7
-Promedio del tamaño de los vectores: 1.1058333675201122
-
-Para las imágenes imagenes1/image_0212.jpg y imagenes1/image_0213.jpg:
-Total de vectores pintados: 7
-Promedio del tamaño de los vectores: 0.6872199411492463
-
-Para las imágenes imagenes1/image_0214.jpg y imagenes1/image_0215.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.6691622654177042
-
-Para las imágenes imagenes1/image_0215.jpg y imagenes1/image_0216.jpg:
-Total de vectores pintados: 2
-Promedio del tamaño de los vectores: 0.535709225225782
-
-Para las imágenes imagenes1/image_0239.jpg y imagenes1/image_0240.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.8141277180543887
-
-Para las imágenes imagenes1/image_0297.jpg y imagenes1/image_0298.jpg:
-Total de vectores pintados: 6
-Promedio del tamaño de los vectores: 0.5647585070425762
-
-Para las imágenes imagenes1/image_0298.jpg y imagenes1/image_0299.jpg:
-Total de vectores pintados: 7
-Promedio del tamaño de los vectores: 0.7283301694477818
-
-Para las imágenes imagenes1/image_0299.jpg y imagenes1/image_0300.jpg:
-Total de vectores pintados: 7
-Promedio del tamaño de los vectores: 0.837295088960184
-
-Para las imágenes imagenes1/image_0301.jpg y imagenes1/image_0302.jpg:
-Total de vectores pintados: 8
-Promedio del tamaño de los vectores: 1.2104477553383075
-
-Para las imágenes imagenes1/image_0302.jpg y imagenes1/image_0303.jpg:
-Total de vectores pintados: 12
-Promedio del tamaño de los vectores: 1.3890812402558554
-
-Para las imágenes imagenes1/image_0304.jpg y imagenes1/image_0305.jpg:
-Total de vectores pintados: 12
-Promedio del tamaño de los vectores: 1.626388027069437
-
-Para las imágenes imagenes1/image_0305.jpg y imagenes1/image_0306.jpg:
-Total de vectores pintados: 16
-Promedio del tamaño de los vectores: 2.03876691130153
-
-Para las imágenes imagenes1/image_0306.jpg y imagenes1/image_0307.jpg:
-Total de vectores pintados: 15
-Promedio del tamaño de los vectores: 2.2096055223229545
-
-Para las imágenes imagenes1/image_0308.jpg y imagenes1/image_0309.jpg:
-Total de vectores pintados: 17
-Promedio del tamaño de los vectores: 2.482881238577045
-
-Para las imágenes imagenes1/image_0309.jpg y imagenes1/image_0310.jpg:
-Total de vectores pintados: 13
-Promedio del tamaño de los vectores: 2.7031962573888633
-
-Para las imágenes imagenes1/image_0310.jpg y imagenes1/image_0311.jpg:
-Total de vectores pintados: 12
-Promedio del tamaño de los vectores: 3.4211114430925065
-
-Para las imágenes imagenes1/image_0312.jpg y imagenes1/image_0313.jpg:
+Magnitud del vector 15: 1.3109285540868807
+Magnitud del vector 22: 1.7073516374717064
+Magnitud del vector 26: 2.6374492905485885
+Magnitud del vector 27: 0.5393692273883532
+Magnitud del vector 31: 0.6695797794175579
+Magnitud del vector 32: 0.8517318903872261
+Magnitud del vector 34: 1.000157845649207
+Magnitud del vector 39: 1.8669226254525249
+Magnitud del vector 40: 0.8690636132325825
+Magnitud del vector 65: 2.71632880358161
+Magnitud del vector 74: 0.7527873218851545
+Para las imágenes imagenes1/image_0007.jpg y imagenes1/image_0008.jpg:
 Total de vectores pintados: 11
-Promedio del tamaño de los vectores: 3.6195335873604946
+Mediana del tamaño de los vectores: 1.000157845649207
 
-Para las imágenes imagenes1/image_0313.jpg y imagenes1/image_0314.jpg:
-Total de vectores pintados: 10
-Promedio del tamaño de los vectores: 3.135621376484381
-
-Para las imágenes imagenes1/image_0315.jpg y imagenes1/image_0316.jpg:
-Total de vectores pintados: 7
-Promedio del tamaño de los vectores: 3.289317670303351
-
-Para las imágenes imagenes1/image_0316.jpg y imagenes1/image_0317.jpg:
-Total de vectores pintados: 9
-Promedio del tamaño de los vectores: 2.4531371903374697
-
-Para las imágenes imagenes1/image_0317.jpg y imagenes1/image_0318.jpg:
-Total de vectores pintados: 11
-Promedio del tamaño de los vectores: 1.7156389717100682
-
-Para las imágenes imagenes1/image_0319.jpg y imagenes1/image_0320.jpg:
-Total de vectores pintados: 9
-Promedio del tamaño de los vectores: 3.0111980021768314
-
-Para las imágenes imagenes1/image_0320.jpg y imagenes1/image_0321.jpg:
-Total de vectores pintados: 7
-Promedio del tamaño de los vectores: 0.861100475441548
-
-Para las imágenes imagenes1/image_0322.jpg y imagenes1/image_0323.jpg:
-Total de vectores pintados: 6
-Promedio del tamaño de los vectores: 0.8146455090578968
-
-Para las imágenes imagenes1/image_0323.jpg y imagenes1/image_0324.jpg:
-Total de vectores pintados: 7
-Promedio del tamaño de los vectores: 0.8099966437270298
-
-Para las imágenes imagenes1/image_0324.jpg y imagenes1/image_0325.jpg:
-Total de vectores pintados: 6
-Promedio del tamaño de los vectores: 0.836022341172046
-
-Para las imágenes imagenes1/image_0326.jpg y imagenes1/image_0327.jpg:
-Total de vectores pintados: 6
-Promedio del tamaño de los vectores: 0.699068462006935
-
-Para las imágenes imagenes1/image_0327.jpg y imagenes1/image_0328.jpg:
-Total de vectores pintados: 3
-Promedio del tamaño de los vectores: 0.6257993663078233
-
-Para las imágenes imagenes1/image_0329.jpg y imagenes1/image_0330.jpg:
-Total de vectores pintados: 3
-Promedio del tamaño de los vectores: 0.6839775064723795
-
-Para las imágenes imagenes1/image_0330.jpg y imagenes1/image_0331.jpg:
-Total de vectores pintados: 2
-Promedio del tamaño de los vectores: 0.6994874038977802
-
-Para las imágenes imagenes1/image_0331.jpg y imagenes1/image_0332.jpg:
-Total de vectores pintados: 4
-Promedio del tamaño de los vectores: 0.6738431286821389
-
-Para las imágenes imagenes1/image_0340.jpg y imagenes1/image_0341.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.5031866769408752
-
-Para las imágenes imagenes1/image_0341.jpg y imagenes1/image_0342.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.506659180686759
-
-Para las imágenes imagenes1/image_0345.jpg y imagenes1/image_0346.jpg:
-Total de vectores pintados: 2
-Promedio del tamaño de los vectores: 0.6035336221964602
-
-Para las imágenes imagenes1/image_0348.jpg y imagenes1/image_0349.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 2.7894741766383926
-
-Para las imágenes imagenes1/image_0349.jpg y imagenes1/image_0350.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.7706168567318533
-
-Para las imágenes imagenes1/image_0351.jpg y imagenes1/image_0352.jpg:
-Total de vectores pintados: 4
-Promedio del tamaño de los vectores: 0.7142825015779861
-
-Para las imágenes imagenes1/image_0352.jpg y imagenes1/image_0353.jpg:
-Total de vectores pintados: 12
-Promedio del tamaño de los vectores: 1.419667421057915
-
-Para las imágenes imagenes1/image_0354.jpg y imagenes1/image_0355.jpg:
+Magnitud del vector 17: 3.91788228279426
+Magnitud del vector 18: 2.9186623992422662
+Magnitud del vector 25: 1.9506493313565025
+Magnitud del vector 27: 0.8966999894885268
+Magnitud del vector 30: 0.8093469452475466
+Magnitud del vector 31: 0.6359778147858006
+Magnitud del vector 32: 1.8233294913411477
+Magnitud del vector 33: 1.1868155915705125
+Magnitud del vector 37: 1.9275313884703573
+Magnitud del vector 55: 3.3314683533559757
+Magnitud del vector 62: 4.056797004114265
+Magnitud del vector 74: 1.7261672963543564
+Magnitud del vector 75: 2.5772558600529334
+Para las imágenes imagenes1/image_0009.jpg y imagenes1/image_0010.jpg:
 Total de vectores pintados: 13
-Promedio del tamaño de los vectores: 2.3669522962028107
+Mediana del tamaño de los vectores: 1.9275313884703573
 
-Para las imágenes imagenes1/image_0355.jpg y imagenes1/image_0356.jpg:
-Total de vectores pintados: 13
-Promedio del tamaño de los vectores: 3.261584720794403
+Magnitud del vector 8: 0.5017711738342996
+Magnitud del vector 14: 4.970114016281084
+Magnitud del vector 19: 3.1603349046531783
+Magnitud del vector 21: 4.764944918863675
+Magnitud del vector 23: 2.723224720602822
+Magnitud del vector 26: 0.9614410818433826
+Magnitud del vector 31: 2.609577297623285
+Magnitud del vector 32: 3.542862722480678
+Magnitud del vector 37: 4.1685565205201796
+Magnitud del vector 38: 0.5253281815462237
+Magnitud del vector 40: 2.922023252473548
+Magnitud del vector 56: 4.687627723910771
+Magnitud del vector 67: 5.044168084107787
+Magnitud del vector 75: 4.917175129260358
+Para las imágenes imagenes1/image_0010.jpg y imagenes1/image_0011.jpg:
+Total de vectores pintados: 14
+Mediana del tamaño de los vectores: 3.351598813566928
 
-Para las imágenes imagenes1/image_0356.jpg y imagenes1/image_0357.jpg:
+Magnitud del vector 4: 1.3387655732670394
+Magnitud del vector 8: 0.648356793093624
+Magnitud del vector 9: 2.955772835705669
+Magnitud del vector 12: 4.302672748936307
+Magnitud del vector 15: 4.993825276868843
+Magnitud del vector 21: 2.4324318933629048
+Magnitud del vector 23: 5.370529618880213
+Magnitud del vector 25: 2.458716984358048
+Magnitud del vector 26: 0.7547023707323349
+Magnitud del vector 27: 1.1258540740372185
+Magnitud del vector 31: 1.1142775580026263
+Magnitud del vector 33: 3.9660778427533674
+Magnitud del vector 36: 0.5813660875529154
+Magnitud del vector 44: 1.460197868566154
+Magnitud del vector 56: 4.006537497131474
+Magnitud del vector 61: 0.5867875941988434
+Magnitud del vector 75: 5.992719815404882
+Para las imágenes imagenes1/image_0011.jpg y imagenes1/image_0012.jpg:
 Total de vectores pintados: 17
-Promedio del tamaño de los vectores: 2.617412155934147
+Mediana del tamaño de los vectores: 2.4324318933629048
 
-Para las imágenes imagenes1/image_0358.jpg y imagenes1/image_0359.jpg:
+Magnitud del vector 5: 1.2002698137445467
+Magnitud del vector 8: 0.6328468354371167
+Magnitud del vector 13: 2.1082271963402857
+Magnitud del vector 15: 4.150070592665854
+Magnitud del vector 16: 1.8650803605531177
+Magnitud del vector 18: 3.1179118678867335
+Magnitud del vector 20: 5.922867816105382
+Magnitud del vector 21: 2.0441649665815875
+Magnitud del vector 24: 1.9365039757041835
+Magnitud del vector 26: 0.6650459525008574
+Magnitud del vector 29: 1.4048172465570357
+Magnitud del vector 30: 0.6403939664454111
+Magnitud del vector 37: 0.7536471041086779
+Magnitud del vector 40: 1.711182682435679
+Magnitud del vector 42: 2.1698343781776326
+Magnitud del vector 51: 2.805791139943089
+Magnitud del vector 62: 5.027894277130652
+Magnitud del vector 64: 0.7882541635890805
+Magnitud del vector 67: 7.158095023964994
+Magnitud del vector 72: 8.14981446437894
+Magnitud del vector 73: 5.2990693405176685
+Para las imágenes imagenes1/image_0013.jpg y imagenes1/image_0014.jpg:
 Total de vectores pintados: 21
-Promedio del tamaño de los vectores: 2.7897855441416026
+Mediana del tamaño de los vectores: 2.0441649665815875
 
-Para las imágenes imagenes1/image_0359.jpg y imagenes1/image_0360.jpg:
-Total de vectores pintados: 18
-Promedio del tamaño de los vectores: 2.0823994841630094
-
-Para las imágenes imagenes1/image_0361.jpg y imagenes1/image_0362.jpg:
-Total de vectores pintados: 22
-Promedio del tamaño de los vectores: 1.1988628317130539
-
-Para las imágenes imagenes1/image_0362.jpg y imagenes1/image_0363.jpg:
-Total de vectores pintados: 17
-Promedio del tamaño de los vectores: 0.9807819356568208
-
-Para las imágenes imagenes1/image_0363.jpg y imagenes1/image_0364.jpg:
-Total de vectores pintados: 5
-Promedio del tamaño de los vectores: 0.6064312252885695
-
-Para las imágenes imagenes1/image_0365.jpg y imagenes1/image_0366.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.5601910316678315
-
-Para las imágenes imagenes1/image_0366.jpg y imagenes1/image_0367.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.5241176607516577
-
-Para las imágenes imagenes1/image_0369.jpg y imagenes1/image_0370.jpg:
-Total de vectores pintados: 5
-Promedio del tamaño de los vectores: 0.6044483869730002
-
-Para las imágenes imagenes1/image_0370.jpg y imagenes1/image_0371.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.8523653673853753
-
-Para las imágenes imagenes1/image_0372.jpg y imagenes1/image_0373.jpg:
-Total de vectores pintados: 2
-Promedio del tamaño de los vectores: 0.7893264477236472
-
-Para las imágenes imagenes1/image_0373.jpg y imagenes1/image_0374.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.6778378773902114
-
-Para las imágenes imagenes1/image_0374.jpg y imagenes1/image_0375.jpg:
-Total de vectores pintados: 8
-Promedio del tamaño de los vectores: 0.7716085330075334
-
-Para las imágenes imagenes1/image_0376.jpg y imagenes1/image_0377.jpg:
-Total de vectores pintados: 10
-Promedio del tamaño de los vectores: 1.2675366160256984
-
-Para las imágenes imagenes1/image_0377.jpg y imagenes1/image_0378.jpg:
-Total de vectores pintados: 8
-Promedio del tamaño de los vectores: 1.1191586795541708
-
-Para las imágenes imagenes1/image_0379.jpg y imagenes1/image_0380.jpg:
-Total de vectores pintados: 14
-Promedio del tamaño de los vectores: 1.0111577244905774
-
-Para las imágenes imagenes1/image_0380.jpg y imagenes1/image_0381.jpg:
-Total de vectores pintados: 16
-Promedio del tamaño de los vectores: 2.044759798257844
-
-Para las imágenes imagenes1/image_0381.jpg y imagenes1/image_0382.jpg:
+Magnitud del vector 8: 0.8062639153827201
+Magnitud del vector 9: 0.6139805382550264
+Magnitud del vector 11: 3.3490984313252046
+Magnitud del vector 12: 2.7442541208126254
+Magnitud del vector 13: 3.168759247694903
+Magnitud del vector 25: 1.4618917632747432
+Magnitud del vector 26: 3.1160033635495967
+Magnitud del vector 27: 0.8577635989786555
+Magnitud del vector 28: 0.7544790802337275
+Magnitud del vector 31: 0.8012329180930248
+Magnitud del vector 34: 1.026745987988401
+Magnitud del vector 40: 0.5146115795999971
+Magnitud del vector 41: 3.7963354697267935
+Magnitud del vector 50: 1.765842822897453
+Magnitud del vector 53: 1.2194645534111759
+Magnitud del vector 55: 1.1731473239036485
+Magnitud del vector 57: 0.7270658928919181
+Magnitud del vector 67: 3.814591058372322
+Magnitud del vector 71: 3.4114194022673745
+Magnitud del vector 72: 1.8564896141230496
+Para las imágenes imagenes1/image_0014.jpg y imagenes1/image_0015.jpg:
 Total de vectores pintados: 20
-Promedio del tamaño de los vectores: 2.0651506265538884
+Mediana del tamaño de los vectores: 1.3406781583429597
 
-Para las imágenes imagenes1/image_0383.jpg y imagenes1/image_0384.jpg:
+Magnitud del vector 5: 0.5365226878853608
+Magnitud del vector 6: 0.5016752412639334
+Magnitud del vector 8: 0.6891629472861065
+Magnitud del vector 9: 0.8947347899553544
+Magnitud del vector 11: 2.253337072223563
+Magnitud del vector 16: 2.384918418613551
+Magnitud del vector 19: 0.7602455095763514
+Magnitud del vector 20: 1.4446114457688386
+Magnitud del vector 21: 2.3906999333565007
+Magnitud del vector 22: 1.329612458130126
+Magnitud del vector 24: 0.5045163349351195
+Magnitud del vector 25: 1.1016638826240093
+Magnitud del vector 27: 2.08932124408233
+Magnitud del vector 28: 1.9572206361120084
+Magnitud del vector 32: 0.5310209384509156
+Magnitud del vector 33: 1.5112977991616312
+Magnitud del vector 35: 0.6010975717932062
+Magnitud del vector 40: 0.8617700132456981
+Magnitud del vector 45: 1.0264708324827032
+Magnitud del vector 47: 0.5081402116079572
+Magnitud del vector 49: 0.7337410504195285
+Magnitud del vector 58: 0.5643974421311213
+Magnitud del vector 63: 1.3075244026120403
+Para las imágenes imagenes1/image_0016.jpg y imagenes1/image_0017.jpg:
+Total de vectores pintados: 23
+Mediana del tamaño de los vectores: 0.8947347899553544
+
+Magnitud del vector 8: 1.1717097665109584
+Magnitud del vector 9: 1.7276805194924185
+Magnitud del vector 11: 1.1119734173045581
+Magnitud del vector 13: 0.8594735840177041
+Magnitud del vector 19: 1.2743962835036833
+Magnitud del vector 22: 0.5494890556947585
+Magnitud del vector 23: 0.760629393693269
+Magnitud del vector 25: 0.6759735712258449
+Magnitud del vector 26: 0.9901044008640063
+Magnitud del vector 29: 1.171259789931382
+Magnitud del vector 39: 1.0739923866214263
+Magnitud del vector 44: 0.6414918824159831
+Magnitud del vector 46: 0.6039356720506396
+Magnitud del vector 47: 0.5446395789058827
+Magnitud del vector 48: 0.9167615991408491
+Magnitud del vector 49: 0.6462141302671898
+Magnitud del vector 61: 2.7745943385862573
+Para las imágenes imagenes1/image_0017.jpg y imagenes1/image_0018.jpg:
 Total de vectores pintados: 17
-Promedio del tamaño de los vectores: 2.7417388297314083
+Mediana del tamaño de los vectores: 0.9167615991408491
 
-Para las imágenes imagenes1/image_0384.jpg y imagenes1/image_0385.jpg:
-Total de vectores pintados: 17
-Promedio del tamaño de los vectores: 3.068448837484593
-
-Para las imágenes imagenes1/image_0386.jpg y imagenes1/image_0387.jpg:
-Total de vectores pintados: 6
-Promedio del tamaño de los vectores: 1.0494359240504891
-
-Para las imágenes imagenes1/image_0387.jpg y imagenes1/image_0388.jpg:
-Total de vectores pintados: 5
-Promedio del tamaño de los vectores: 1.3761746076798465
-
-Para las imágenes imagenes1/image_0388.jpg y imagenes1/image_0389.jpg:
-Total de vectores pintados: 4
-Promedio del tamaño de los vectores: 0.9883704211474589
-
-Para las imágenes imagenes1/image_0390.jpg y imagenes1/image_0391.jpg:
-Total de vectores pintados: 6
-Promedio del tamaño de los vectores: 1.014959452041013
-
-Para las imágenes imagenes1/image_0391.jpg y imagenes1/image_0392.jpg:
-Total de vectores pintados: 4
-Promedio del tamaño de los vectores: 0.8130016526293575
-
-Para las imágenes imagenes1/image_0393.jpg y imagenes1/image_0394.jpg:
-Total de vectores pintados: 3
-Promedio del tamaño de los vectores: 0.8191282252932032
-
-Para las imágenes imagenes1/image_0394.jpg y imagenes1/image_0395.jpg:
-Total de vectores pintados: 3
-Promedio del tamaño de los vectores: 0.8688791370681507
-
-Para las imágenes imagenes1/image_0395.jpg y imagenes1/image_0396.jpg:
-Total de vectores pintados: 2
-Promedio del tamaño de los vectores: 1.1451763089672171
-
-Para las imágenes imagenes1/image_0397.jpg y imagenes1/image_0398.jpg:
-Total de vectores pintados: 2
-Promedio del tamaño de los vectores: 1.1270858120820437
-
-Para las imágenes imagenes1/image_0398.jpg y imagenes1/image_0399.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.5208324790614791
-
-Para las imágenes imagenes1/image_0399.jpg y imagenes1/image_0400.jpg:
-Total de vectores pintados: 4
-Promedio del tamaño de los vectores: 0.9147144060630051
-
-Para las imágenes imagenes1/image_0400.jpg y imagenes1/image_0401.jpg:
-Total de vectores pintados: 2
-Promedio del tamaño de los vectores: 0.6227402633744352
-
-Para las imágenes imagenes1/image_0409.jpg y imagenes1/image_0410.jpg:
-Total de vectores pintados: 2
-Promedio del tamaño de los vectores: 0.5708590226166615
-
-Para las imágenes imagenes1/image_0410.jpg y imagenes1/image_0411.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.6623850409643542
-
-Para las imágenes imagenes1/image_0411.jpg y imagenes1/image_0412.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.7389297580272942
-
-Para las imágenes imagenes1/image_0412.jpg y imagenes1/image_0413.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.5652567736707094
-
-Para las imágenes imagenes1/image_0415.jpg y imagenes1/image_0416.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.5546381808928688
-
-Para las imágenes imagenes1/image_0417.jpg y imagenes1/image_0418.jpg:
-Total de vectores pintados: 2
-Promedio del tamaño de los vectores: 0.59328892384898
-
-Para las imágenes imagenes1/image_0420.jpg y imagenes1/image_0421.jpg:
-Total de vectores pintados: 2
-Promedio del tamaño de los vectores: 0.7899884382106918
-
-Para las imágenes imagenes1/image_0422.jpg y imagenes1/image_0423.jpg:
-Total de vectores pintados: 2
-Promedio del tamaño de los vectores: 1.0761401481667463
-
-Para las imágenes imagenes1/image_0423.jpg y imagenes1/image_0424.jpg:
-Total de vectores pintados: 5
-Promedio del tamaño de los vectores: 1.269232419441709
-
-Para las imágenes imagenes1/image_0425.jpg y imagenes1/image_0426.jpg:
-Total de vectores pintados: 4
-Promedio del tamaño de los vectores: 2.0417527917871894
-
-Para las imágenes imagenes1/image_0426.jpg y imagenes1/image_0427.jpg:
-Total de vectores pintados: 8
-Promedio del tamaño de los vectores: 2.277282485845871
-
-Para las imágenes imagenes1/image_0427.jpg y imagenes1/image_0428.jpg:
+Magnitud del vector 11: 0.5804130811028221
+Magnitud del vector 28: 0.6400180348090805
+Magnitud del vector 29: 0.6329022544126393
+Magnitud del vector 32: 0.5576450164856201
+Magnitud del vector 43: 0.6459352755088879
+Magnitud del vector 58: 0.5203834077718742
+Magnitud del vector 61: 0.5720062928880078
+Para las imágenes imagenes1/image_0018.jpg y imagenes1/image_0019.jpg:
 Total de vectores pintados: 7
-Promedio del tamaño de los vectores: 2.70618327049852
+Mediana del tamaño de los vectores: 0.5804130811028221
 
-Para las imágenes imagenes1/image_0429.jpg y imagenes1/image_0430.jpg:
-Total de vectores pintados: 8
-Promedio del tamaño de los vectores: 2.7821959882087683
+Magnitud del vector 22: 0.5550220922307207
+Para las imágenes imagenes1/image_0020.jpg y imagenes1/image_0021.jpg:
+Total de vectores pintados: 1
+Mediana del tamaño de los vectores: 0.5550220922307207
 
-Para las imágenes imagenes1/image_0430.jpg y imagenes1/image_0431.jpg:
-Total de vectores pintados: 11
-Promedio del tamaño de los vectores: 2.681446692385606
+Magnitud del vector 62: 0.6079773145753531
+Para las imágenes imagenes1/image_0021.jpg y imagenes1/image_0022.jpg:
+Total de vectores pintados: 1
+Mediana del tamaño de los vectores: 0.6079773145753531
 
-Para las imágenes imagenes1/image_0431.jpg y imagenes1/image_0432.jpg:
-Total de vectores pintados: 10
-Promedio del tamaño de los vectores: 2.0135116618828204
+Magnitud del vector 36: 0.5311199759627765
+Para las imágenes imagenes1/image_0023.jpg y imagenes1/image_0024.jpg:
+Total de vectores pintados: 1
+Mediana del tamaño de los vectores: 0.5311199759627765
 
-Para las imágenes imagenes1/image_0433.jpg y imagenes1/image_0434.jpg:
-Total de vectores pintados: 11
-Promedio del tamaño de los vectores: 1.6578952097595645
-
-Para las imágenes imagenes1/image_0434.jpg y imagenes1/image_0435.jpg:
-Total de vectores pintados: 12
-Promedio del tamaño de los vectores: 1.6016353695222005
-
-Para las imágenes imagenes1/image_0436.jpg y imagenes1/image_0437.jpg:
-Total de vectores pintados: 16
-Promedio del tamaño de los vectores: 1.477412119508578
-
-Para las imágenes imagenes1/image_0437.jpg y imagenes1/image_0438.jpg:
-Total de vectores pintados: 12
-Promedio del tamaño de los vectores: 1.1949134052280679
-
-Para las imágenes imagenes1/image_0438.jpg y imagenes1/image_0439.jpg:
-Total de vectores pintados: 11
-Promedio del tamaño de los vectores: 0.8969623049403992
-
-Para las imágenes imagenes1/image_0440.jpg y imagenes1/image_0441.jpg:
-Total de vectores pintados: 6
-Promedio del tamaño de los vectores: 0.9015148405574006
-
-Para las imágenes imagenes1/image_0441.jpg y imagenes1/image_0442.jpg:
+Magnitud del vector 9: 0.5554140072025566
+Magnitud del vector 22: 0.5742814918775088
+Magnitud del vector 23: 0.5828340981857699
+Magnitud del vector 29: 0.5795854586116607
+Magnitud del vector 48: 0.7469360576285129
+Para las imágenes imagenes1/image_0024.jpg y imagenes1/image_0025.jpg:
 Total de vectores pintados: 5
-Promedio del tamaño de los vectores: 0.7796919926938349
+Mediana del tamaño de los vectores: 0.5795854586116607
 
-Para las imágenes imagenes1/image_0443.jpg y imagenes1/image_0444.jpg:
-Total de vectores pintados: 6
-Promedio del tamaño de los vectores: 0.6228554923299675
-
-Para las imágenes imagenes1/image_0454.jpg y imagenes1/image_0455.jpg:
-Total de vectores pintados: 12
-Promedio del tamaño de los vectores: 0.6982532663623614
-
-Para las imágenes imagenes1/image_0455.jpg y imagenes1/image_0456.jpg:
-Total de vectores pintados: 10
-Promedio del tamaño de los vectores: 1.009697489313077
-
-Para las imágenes imagenes1/image_0457.jpg y imagenes1/image_0458.jpg:
-Total de vectores pintados: 14
-Promedio del tamaño de los vectores: 1.1586072502446305
-
-Para las imágenes imagenes1/image_0458.jpg y imagenes1/image_0459.jpg:
-Total de vectores pintados: 19
-Promedio del tamaño de los vectores: 1.497418650364185
-
-Para las imágenes imagenes1/image_0459.jpg y imagenes1/image_0460.jpg:
-Total de vectores pintados: 17
-Promedio del tamaño de los vectores: 1.8231865946742882
-
-Para las imágenes imagenes1/image_0461.jpg y imagenes1/image_0462.jpg:
-Total de vectores pintados: 13
-Promedio del tamaño de los vectores: 2.727363586376528
-
-Para las imágenes imagenes1/image_0462.jpg y imagenes1/image_0463.jpg:
-Total de vectores pintados: 16
-Promedio del tamaño de los vectores: 2.3031679522238995
-
-Para las imágenes imagenes1/image_0463.jpg y imagenes1/image_0464.jpg:
-Total de vectores pintados: 19
-Promedio del tamaño de los vectores: 2.13225792296677
-
-Para las imágenes imagenes1/image_0465.jpg y imagenes1/image_0466.jpg:
-Total de vectores pintados: 19
-Promedio del tamaño de los vectores: 1.4545269999629256
-
-Para las imágenes imagenes1/image_0466.jpg y imagenes1/image_0467.jpg:
-Total de vectores pintados: 15
-Promedio del tamaño de los vectores: 1.1519728632167097
-
-Para las imágenes imagenes1/image_0468.jpg y imagenes1/image_0469.jpg:
-Total de vectores pintados: 15
-Promedio del tamaño de los vectores: 0.9314356477681921
-
-Para las imágenes imagenes1/image_0469.jpg y imagenes1/image_0470.jpg:
-Total de vectores pintados: 14
-Promedio del tamaño de los vectores: 1.0153195419420078
-
-Para las imágenes imagenes1/image_0470.jpg y imagenes1/image_0471.jpg:
-Total de vectores pintados: 11
-Promedio del tamaño de los vectores: 0.7034590706378475
-
-Para las imágenes imagenes1/image_0472.jpg y imagenes1/image_0473.jpg:
-Total de vectores pintados: 11
-Promedio del tamaño de los vectores: 0.7118626455670941
-
-Para las imágenes imagenes1/image_0473.jpg y imagenes1/image_0474.jpg:
-Total de vectores pintados: 10
-Promedio del tamaño de los vectores: 0.77621946037954
-
-Para las imágenes imagenes1/image_0475.jpg y imagenes1/image_0476.jpg:
-Total de vectores pintados: 7
-Promedio del tamaño de los vectores: 0.7895952957056238
-
-Para las imágenes imagenes1/image_0476.jpg y imagenes1/image_0477.jpg:
-Total de vectores pintados: 8
-Promedio del tamaño de los vectores: 0.7270309023997242
-
-Para las imágenes imagenes1/image_0477.jpg y imagenes1/image_0478.jpg:
-Total de vectores pintados: 7
-Promedio del tamaño de los vectores: 0.6802480240090831
-
-Para las imágenes imagenes1/image_0479.jpg y imagenes1/image_0480.jpg:
-Total de vectores pintados: 5
-Promedio del tamaño de los vectores: 0.6028642122954893
-
-Para las imágenes imagenes1/image_0480.jpg y imagenes1/image_0481.jpg:
-Total de vectores pintados: 4
-Promedio del tamaño de los vectores: 0.5537075750478078
-
-Para las imágenes imagenes1/image_0482.jpg y imagenes1/image_0483.jpg:
-Total de vectores pintados: 4
-Promedio del tamaño de los vectores: 0.5645818294431934
-
-Para las imágenes imagenes1/image_0546.jpg y imagenes1/image_0547.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.5763552132064412
-
-Para las imágenes imagenes1/image_0559.jpg y imagenes1/image_0560.jpg:
-Total de vectores pintados: 2
-Promedio del tamaño de los vectores: 0.6586646362368884
-
-Para las imágenes imagenes1/image_0560.jpg y imagenes1/image_0561.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.8570037590408339
-
-Para las imágenes imagenes1/image_0561.jpg y imagenes1/image_0562.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 1.2708086808013452
-
-Para las imágenes imagenes1/image_0562.jpg y imagenes1/image_0563.jpg:
-Total de vectores pintados: 6
-Promedio del tamaño de los vectores: 0.5922311412080526
-
-Para las imágenes imagenes1/image_0564.jpg y imagenes1/image_0565.jpg:
-Total de vectores pintados: 5
-Promedio del tamaño de los vectores: 0.6034962122409223
-
-Para las imágenes imagenes1/image_0565.jpg y imagenes1/image_0566.jpg:
-Total de vectores pintados: 8
-Promedio del tamaño de los vectores: 0.6152510285176366
-
-Para las imágenes imagenes1/image_0566.jpg y imagenes1/image_0567.jpg:
-Total de vectores pintados: 9
-Promedio del tamaño de los vectores: 0.7356853227311485
-
-Para las imágenes imagenes1/image_0568.jpg y imagenes1/image_0569.jpg:
-Total de vectores pintados: 8
-Promedio del tamaño de los vectores: 0.7839318793821028
-
-Para las imágenes imagenes1/image_0569.jpg y imagenes1/image_0570.jpg:
-Total de vectores pintados: 11
-Promedio del tamaño de los vectores: 0.759920471480582
-
-Para las imágenes imagenes1/image_0571.jpg y imagenes1/image_0572.jpg:
-Total de vectores pintados: 10
-Promedio del tamaño de los vectores: 1.087953831600137
-
-Para las imágenes imagenes1/image_0572.jpg y imagenes1/image_0573.jpg:
-Total de vectores pintados: 11
-Promedio del tamaño de los vectores: 2.079195193467102
-
-Para las imágenes imagenes1/image_0573.jpg y imagenes1/image_0574.jpg:
-Total de vectores pintados: 9
-Promedio del tamaño de los vectores: 1.5476726436866275
-
-Para las imágenes imagenes1/image_0575.jpg y imagenes1/image_0576.jpg:
-Total de vectores pintados: 9
-Promedio del tamaño de los vectores: 1.6184598891206343
-
-Para las imágenes imagenes1/image_0576.jpg y imagenes1/image_0577.jpg:
-Total de vectores pintados: 9
-Promedio del tamaño de los vectores: 1.736336702469612
-
-Para las imágenes imagenes1/image_0577.jpg y imagenes1/image_0578.jpg:
-Total de vectores pintados: 7
-Promedio del tamaño de los vectores: 1.8998651157296365
-
-Para las imágenes imagenes1/image_0579.jpg y imagenes1/image_0580.jpg:
-Total de vectores pintados: 5
-Promedio del tamaño de los vectores: 1.001583354726318
-
-Para las imágenes imagenes1/image_0580.jpg y imagenes1/image_0581.jpg:
-Total de vectores pintados: 4
-Promedio del tamaño de los vectores: 0.730039177474611
-
-Para las imágenes imagenes1/image_0583.jpg y imagenes1/image_0584.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.8558277380244984
-
-Para las imágenes imagenes1/image_0585.jpg y imagenes1/image_0586.jpg:
-Total de vectores pintados: 2
-Promedio del tamaño de los vectores: 0.6173810910948818
-
-Para las imágenes imagenes1/image_0586.jpg y imagenes1/image_0587.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 1.0187928068025696
-
-Para las imágenes imagenes1/image_0587.jpg y imagenes1/image_0588.jpg:
-Total de vectores pintados: 5
-Promedio del tamaño de los vectores: 0.7247036738852077
-
-Para las imágenes imagenes1/image_0588.jpg y imagenes1/image_0589.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.6322049071172028
-
-Para las imágenes imagenes1/image_0589.jpg y imagenes1/image_0590.jpg:
-Total de vectores pintados: 6
-Promedio del tamaño de los vectores: 0.6147300635152261
-
-Para las imágenes imagenes1/image_0590.jpg y imagenes1/image_0591.jpg:
-Total de vectores pintados: 11
-Promedio del tamaño de los vectores: 0.9217871462767633
-
-Para las imágenes imagenes1/image_0591.jpg y imagenes1/image_0592.jpg:
-Total de vectores pintados: 13
-Promedio del tamaño de los vectores: 1.6019082904149444
-
-Para las imágenes imagenes1/image_0593.jpg y imagenes1/image_0594.jpg:
-Total de vectores pintados: 14
-Promedio del tamaño de los vectores: 1.5567959272695742
-
-Para las imágenes imagenes1/image_0594.jpg y imagenes1/image_0595.jpg:
-Total de vectores pintados: 15
-Promedio del tamaño de los vectores: 1.3116744003724823
-
-Para las imágenes imagenes1/image_0596.jpg y imagenes1/image_0597.jpg:
-Total de vectores pintados: 13
-Promedio del tamaño de los vectores: 1.0628217724005593
-
-Para las imágenes imagenes1/image_0597.jpg y imagenes1/image_0598.jpg:
-Total de vectores pintados: 17
-Promedio del tamaño de los vectores: 1.228580399599007
-
-Para las imágenes imagenes1/image_0598.jpg y imagenes1/image_0599.jpg:
-Total de vectores pintados: 10
-Promedio del tamaño de los vectores: 0.7654960539814932
-
-Para las imágenes imagenes1/image_0600.jpg y imagenes1/image_0601.jpg:
-Total de vectores pintados: 5
-Promedio del tamaño de los vectores: 0.6977691360461152
-
-Para las imágenes imagenes1/image_0601.jpg y imagenes1/image_0602.jpg:
-Total de vectores pintados: 10
-Promedio del tamaño de los vectores: 0.786293028053879
-
-Para las imágenes imagenes1/image_0602.jpg y imagenes1/image_0603.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.5377709998085906
-
-Para las imágenes imagenes1/image_0603.jpg y imagenes1/image_0604.jpg:
-Total de vectores pintados: 8
-Promedio del tamaño de los vectores: 0.8943531594961688
-
-Para las imágenes imagenes1/image_0604.jpg y imagenes1/image_0605.jpg:
-Total de vectores pintados: 9
-Promedio del tamaño de los vectores: 0.7437407554862551
-
-Para las imágenes imagenes1/image_0605.jpg y imagenes1/image_0606.jpg:
-Total de vectores pintados: 10
-Promedio del tamaño de los vectores: 0.6733178348781133
-
-Para las imágenes imagenes1/image_0607.jpg y imagenes1/image_0608.jpg:
-Total de vectores pintados: 11
-Promedio del tamaño de los vectores: 0.7122813623727028
-
-Para las imágenes imagenes1/image_0608.jpg y imagenes1/image_0609.jpg:
-Total de vectores pintados: 12
-Promedio del tamaño de los vectores: 0.6865635493387233
-
-Para las imágenes imagenes1/image_0609.jpg y imagenes1/image_0610.jpg:
-Total de vectores pintados: 10
-Promedio del tamaño de los vectores: 0.6707773207604111
-
-Para las imágenes imagenes1/image_0611.jpg y imagenes1/image_0612.jpg:
-Total de vectores pintados: 8
-Promedio del tamaño de los vectores: 0.6137768413959832
-
-Para las imágenes imagenes1/image_0612.jpg y imagenes1/image_0613.jpg:
-Total de vectores pintados: 2
-Promedio del tamaño de los vectores: 0.5695254929708009
-
-Para las imágenes imagenes1/image_0616.jpg y imagenes1/image_0617.jpg:
-Total de vectores pintados: 2
-Promedio del tamaño de los vectores: 0.97592236869087
-
-Para las imágenes imagenes1/image_0619.jpg y imagenes1/image_0620.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.6407744944483653
-
-Para las imágenes imagenes1/image_0625.jpg y imagenes1/image_0626.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.5663742765494972
-
-Para las imágenes imagenes1/image_0639.jpg y imagenes1/image_0640.jpg:
-Total de vectores pintados: 3
-Promedio del tamaño de los vectores: 0.7225876977064617
-
-Para las imágenes imagenes1/image_0674.jpg y imagenes1/image_0675.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.5043015195793713
-
-Para las imágenes imagenes1/image_0677.jpg y imagenes1/image_0678.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.5073250891262221
-
-Para las imágenes imagenes1/image_0685.jpg y imagenes1/image_0686.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.5909426932835448
-
-Para las imágenes imagenes1/image_0729.jpg y imagenes1/image_0730.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.5570375811058553
-
-Para las imágenes imagenes1/image_0733.jpg y imagenes1/image_0734.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.5150994464194757
-
-Para las imágenes imagenes1/image_0735.jpg y imagenes1/image_0736.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.5671358993742401
-
-Para las imágenes imagenes1/image_0736.jpg y imagenes1/image_0737.jpg:
-Total de vectores pintados: 2
-Promedio del tamaño de los vectores: 0.576658870747167
-
-Para las imágenes imagenes1/image_0737.jpg y imagenes1/image_0738.jpg:
-Total de vectores pintados: 3
-Promedio del tamaño de los vectores: 0.6280050917260546
-
-Para las imágenes imagenes1/image_0739.jpg y imagenes1/image_0740.jpg:
-Total de vectores pintados: 5
-Promedio del tamaño de los vectores: 0.658499583142026
-
-Para las imágenes imagenes1/image_0740.jpg y imagenes1/image_0741.jpg:
-Total de vectores pintados: 6
-Promedio del tamaño de los vectores: 0.6601117210443151
-
-Para las imágenes imagenes1/image_0742.jpg y imagenes1/image_0743.jpg:
-Total de vectores pintados: 3
-Promedio del tamaño de los vectores: 0.6085587697676179
-
-Para las imágenes imagenes1/image_0743.jpg y imagenes1/image_0744.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.6132624559902564
-
-Para las imágenes imagenes1/image_0744.jpg y imagenes1/image_0745.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.6095426200844123
-
-Para las imágenes imagenes1/image_0800.jpg y imagenes1/image_0801.jpg:
-Total de vectores pintados: 5
-Promedio del tamaño de los vectores: 0.9603410087232476
-
-Para las imágenes imagenes1/image_0801.jpg y imagenes1/image_0802.jpg:
-Total de vectores pintados: 3
-Promedio del tamaño de los vectores: 0.7951559934709785
-
-Para las imágenes imagenes1/image_0803.jpg y imagenes1/image_0804.jpg:
-Total de vectores pintados: 3
-Promedio del tamaño de los vectores: 0.8360906070063088
-
-Para las imágenes imagenes1/image_0806.jpg y imagenes1/image_0807.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.5403758388740457
-
-Para las imágenes imagenes1/image_0831.jpg y imagenes1/image_0832.jpg:
-Total de vectores pintados: 7
-Promedio del tamaño de los vectores: 0.5907138907120502
-
-Para las imágenes imagenes1/image_0832.jpg y imagenes1/image_0833.jpg:
-Total de vectores pintados: 12
-Promedio del tamaño de los vectores: 0.6564120297462187
-
-Para las imágenes imagenes1/image_0833.jpg y imagenes1/image_0834.jpg:
-Total de vectores pintados: 17
-Promedio del tamaño de los vectores: 0.7108107437116221
-
-Para las imágenes imagenes1/image_0835.jpg y imagenes1/image_0836.jpg:
-Total de vectores pintados: 14
-Promedio del tamaño de los vectores: 0.7163857933453436
-
-Para las imágenes imagenes1/image_0836.jpg y imagenes1/image_0837.jpg:
-Total de vectores pintados: 9
-Promedio del tamaño de los vectores: 0.6166165218577286
-
-Para las imágenes imagenes1/image_0838.jpg y imagenes1/image_0839.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.5248244311364253
-
-Para las imágenes imagenes1/image_0850.jpg y imagenes1/image_0851.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.5281845236463348
-
-Para las imágenes imagenes1/image_0851.jpg y imagenes1/image_0852.jpg:
-Total de vectores pintados: 8
-Promedio del tamaño de los vectores: 0.6753545373164296
-
-Para las imágenes imagenes1/image_0853.jpg y imagenes1/image_0854.jpg:
-Total de vectores pintados: 19
-Promedio del tamaño de los vectores: 1.371675920326213
-
-Para las imágenes imagenes1/image_0854.jpg y imagenes1/image_0855.jpg:
-Total de vectores pintados: 15
-Promedio del tamaño de los vectores: 1.1911693261123917
-
-Para las imágenes imagenes1/image_0856.jpg y imagenes1/image_0857.jpg:
-Total de vectores pintados: 9
-Promedio del tamaño de los vectores: 0.7847935522653239
-
-Para las imágenes imagenes1/image_0874.jpg y imagenes1/image_0875.jpg:
-Total de vectores pintados: 2
-Promedio del tamaño de los vectores: 0.5703701253285348
-
-Para las imágenes imagenes1/image_0875.jpg y imagenes1/image_0876.jpg:
-Total de vectores pintados: 2
-Promedio del tamaño de los vectores: 0.514794573739046
-
-Para las imágenes imagenes1/image_0879.jpg y imagenes1/image_0880.jpg:
-Total de vectores pintados: 11
-Promedio del tamaño de los vectores: 0.781236016472214
-
-Para las imágenes imagenes1/image_0881.jpg y imagenes1/image_0882.jpg:
-Total de vectores pintados: 5
-Promedio del tamaño de los vectores: 0.6702457461969885
-
-Para las imágenes imagenes1/image_0882.jpg y imagenes1/image_0883.jpg:
-Total de vectores pintados: 9
-Promedio del tamaño de los vectores: 0.8667442731360678
-
-Para las imágenes imagenes1/image_0883.jpg y imagenes1/image_0884.jpg:
-Total de vectores pintados: 4
-Promedio del tamaño de los vectores: 0.515494175297825
-
-Para las imágenes imagenes1/image_0885.jpg y imagenes1/image_0886.jpg:
-Total de vectores pintados: 2
-Promedio del tamaño de los vectores: 0.5715309344441797
-
-Para las imágenes imagenes1/image_0886.jpg y imagenes1/image_0887.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.6235919425612764
-
-Para las imágenes imagenes1/image_0888.jpg y imagenes1/image_0889.jpg:
-Total de vectores pintados: 3
-Promedio del tamaño de los vectores: 0.5260589070992686
-
-Para las imágenes imagenes1/image_0899.jpg y imagenes1/image_0900.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.519160182992059
-
-Para las imágenes imagenes1/image_0906.jpg y imagenes1/image_0907.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.5305348275467189
-
-Para las imágenes imagenes1/image_0907.jpg y imagenes1/image_0908.jpg:
-Total de vectores pintados: 2
-Promedio del tamaño de los vectores: 0.5528926759998498
-
-Para las imágenes imagenes1/image_0908.jpg y imagenes1/image_0909.jpg:
-Total de vectores pintados: 5
-Promedio del tamaño de los vectores: 0.6890575011999198
-
-Para las imágenes imagenes1/image_0910.jpg y imagenes1/image_0911.jpg:
-Total de vectores pintados: 9
-Promedio del tamaño de los vectores: 0.709964355239678
-
-Para las imágenes imagenes1/image_0911.jpg y imagenes1/image_0912.jpg:
-Total de vectores pintados: 6
-Promedio del tamaño de los vectores: 0.680729911096923
-
-Para las imágenes imagenes1/image_0913.jpg y imagenes1/image_0914.jpg:
-Total de vectores pintados: 2
-Promedio del tamaño de los vectores: 0.689780978095176
-
-Para las imágenes imagenes1/image_0914.jpg y imagenes1/image_0915.jpg:
-Total de vectores pintados: 13
-Promedio del tamaño de los vectores: 0.7660522601066073
-
-Para las imágenes imagenes1/image_0915.jpg y imagenes1/image_0916.jpg:
-Total de vectores pintados: 7
-Promedio del tamaño de los vectores: 0.6349751900813674
-
-Para las imágenes imagenes1/image_0917.jpg y imagenes1/image_0918.jpg:
-Total de vectores pintados: 5
-Promedio del tamaño de los vectores: 0.5639036248167265
-
-Para las imágenes imagenes1/image_0922.jpg y imagenes1/image_0923.jpg:
-Total de vectores pintados: 7
-Promedio del tamaño de los vectores: 0.5782057428601757
-
-Para las imágenes imagenes1/image_0924.jpg y imagenes1/image_0925.jpg:
-Total de vectores pintados: 4
-Promedio del tamaño de los vectores: 0.6200871043225439
-
-Para las imágenes imagenes1/image_0925.jpg y imagenes1/image_0926.jpg:
-Total de vectores pintados: 3
-Promedio del tamaño de los vectores: 0.7507659232499398
-
-Para las imágenes imagenes1/image_0927.jpg y imagenes1/image_0928.jpg:
-Total de vectores pintados: 8
-Promedio del tamaño de los vectores: 0.8159413338564359
-
-Para las imágenes imagenes1/image_0928.jpg y imagenes1/image_0929.jpg:
-Total de vectores pintados: 8
-Promedio del tamaño de los vectores: 0.9586240946538533
-
-Para las imágenes imagenes1/image_0929.jpg y imagenes1/image_0930.jpg:
-Total de vectores pintados: 10
-Promedio del tamaño de los vectores: 0.9175599647508582
-
-Para las imágenes imagenes1/image_0931.jpg y imagenes1/image_0932.jpg:
-Total de vectores pintados: 9
-Promedio del tamaño de los vectores: 0.9297020663891443
-
-Para las imágenes imagenes1/image_0932.jpg y imagenes1/image_0933.jpg:
-Total de vectores pintados: 11
-Promedio del tamaño de los vectores: 2.265456091775192
-
-Para las imágenes imagenes1/image_0933.jpg y imagenes1/image_0934.jpg:
-Total de vectores pintados: 10
-Promedio del tamaño de los vectores: 0.7696291112232451
-
-Para las imágenes imagenes1/image_0935.jpg y imagenes1/image_0936.jpg:
-Total de vectores pintados: 8
-Promedio del tamaño de los vectores: 0.8965829219453558
-
-Para las imágenes imagenes1/image_0936.jpg y imagenes1/image_0937.jpg:
-Total de vectores pintados: 11
-Promedio del tamaño de los vectores: 0.8566341973768403
-
-Para las imágenes imagenes1/image_0938.jpg y imagenes1/image_0939.jpg:
-Total de vectores pintados: 10
-Promedio del tamaño de los vectores: 0.8263265488082172
-
-Para las imágenes imagenes1/image_0939.jpg y imagenes1/image_0940.jpg:
-Total de vectores pintados: 10
-Promedio del tamaño de los vectores: 0.9309383581038297
-
-Para las imágenes imagenes1/image_0940.jpg y imagenes1/image_0941.jpg:
-Total de vectores pintados: 7
-Promedio del tamaño de los vectores: 0.7974724488476728
-
-Para las imágenes imagenes1/image_0942.jpg y imagenes1/image_0943.jpg:
-Total de vectores pintados: 4
-Promedio del tamaño de los vectores: 0.5214438486554376
-
-Para las imágenes imagenes1/image_0959.jpg y imagenes1/image_0960.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 1.2812854640403566
-
-Para las imágenes imagenes1/image_0967.jpg y imagenes1/image_0968.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.5913701092591505
-
-Para las imágenes imagenes1/image_0991.jpg y imagenes1/image_0992.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.6230677553343258
-
-Para las imágenes imagenes1/image_1007.jpg y imagenes1/image_1008.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.697776201618067
-
-Para las imágenes imagenes1/image_1039.jpg y imagenes1/image_1040.jpg:
-Total de vectores pintados: 2
-Promedio del tamaño de los vectores: 0.660426123186991
-
-Para las imágenes imagenes1/image_1055.jpg y imagenes1/image_1056.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.5754059117515177
-
-Para las imágenes imagenes1/image_1095.jpg y imagenes1/image_1096.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.5327420103652931
-
-Para las imágenes imagenes1/image_1119.jpg y imagenes1/image_1120.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.9637990356569818
-
-Para las imágenes imagenes1/image_1131.jpg y imagenes1/image_1132.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.7490421298464054
-
-Para las imágenes imagenes1/image_1189.jpg y imagenes1/image_1190.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.5946670167299992
-
-Para las imágenes imagenes1/image_1279.jpg y imagenes1/image_1280.jpg:
-Total de vectores pintados: 3
-Promedio del tamaño de los vectores: 1.291277601961304
-
-Para las imágenes imagenes1/image_1282.jpg y imagenes1/image_1283.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.502949420757708
-
-Para las imágenes imagenes1/image_1283.jpg y imagenes1/image_1284.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.8391427043161885
-
-Para las imágenes imagenes1/image_1292.jpg y imagenes1/image_1293.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.6135264790195537
-
-Para las imágenes imagenes1/image_1337.jpg y imagenes1/image_1338.jpg:
-Total de vectores pintados: 5
-Promedio del tamaño de los vectores: 0.5722913110848433
-
-Para las imágenes imagenes1/image_1338.jpg y imagenes1/image_1339.jpg:
-Total de vectores pintados: 3
-Promedio del tamaño de los vectores: 0.5461814047366159
-
-Para las imágenes imagenes1/image_1340.jpg y imagenes1/image_1341.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.5386379370112132
-
-Para las imágenes imagenes1/image_1347.jpg y imagenes1/image_1348.jpg:
-Total de vectores pintados: 3
-Promedio del tamaño de los vectores: 0.7734146345301411
-
-Para las imágenes imagenes1/image_1348.jpg y imagenes1/image_1349.jpg:
-Total de vectores pintados: 8
-Promedio del tamaño de los vectores: 0.989794004548434
-
-Para las imágenes imagenes1/image_1349.jpg y imagenes1/image_1350.jpg:
-Total de vectores pintados: 4
-Promedio del tamaño de los vectores: 0.7526691238254715
-
-Para las imágenes imagenes1/image_1358.jpg y imagenes1/image_1359.jpg:
-Total de vectores pintados: 9
-Promedio del tamaño de los vectores: 1.3667909141106693
-
-Para las imágenes imagenes1/image_1359.jpg y imagenes1/image_1360.jpg:
-Total de vectores pintados: 13
-Promedio del tamaño de los vectores: 1.298005327101663
-
-Para las imágenes imagenes1/image_1360.jpg y imagenes1/image_1361.jpg:
-Total de vectores pintados: 8
-Promedio del tamaño de los vectores: 0.9201189642368267
-
-Para las imágenes imagenes1/image_1362.jpg y imagenes1/image_1363.jpg:
-Total de vectores pintados: 12
-Promedio del tamaño de los vectores: 0.9349686724805202
-
-Para las imágenes imagenes1/image_1363.jpg y imagenes1/image_1364.jpg:
-Total de vectores pintados: 17
-Promedio del tamaño de los vectores: 1.4391773965443337
-
-Para las imágenes imagenes1/image_1365.jpg y imagenes1/image_1366.jpg:
-Total de vectores pintados: 18
-Promedio del tamaño de los vectores: 0.9960164081287312
-
-Para las imágenes imagenes1/image_1366.jpg y imagenes1/image_1367.jpg:
-Total de vectores pintados: 20
-Promedio del tamaño de los vectores: 1.063655543074172
-
-Para las imágenes imagenes1/image_1367.jpg y imagenes1/image_1368.jpg:
-Total de vectores pintados: 21
-Promedio del tamaño de los vectores: 1.1619618848540434
-
-Para las imágenes imagenes1/image_1369.jpg y imagenes1/image_1370.jpg:
-Total de vectores pintados: 19
-Promedio del tamaño de los vectores: 1.0878969437642525
-
-Para las imágenes imagenes1/image_1370.jpg y imagenes1/image_1371.jpg:
-Total de vectores pintados: 17
-Promedio del tamaño de los vectores: 0.889834460698962
-
-Para las imágenes imagenes1/image_1372.jpg y imagenes1/image_1373.jpg:
-Total de vectores pintados: 16
-Promedio del tamaño de los vectores: 0.8914286634070897
-
-Para las imágenes imagenes1/image_1373.jpg y imagenes1/image_1374.jpg:
-Total de vectores pintados: 20
-Promedio del tamaño de los vectores: 0.8802334447674266
-
-Para las imágenes imagenes1/image_1374.jpg y imagenes1/image_1375.jpg:
-Total de vectores pintados: 20
-Promedio del tamaño de los vectores: 0.9325288436415475
-
-Para las imágenes imagenes1/image_1376.jpg y imagenes1/image_1377.jpg:
-Total de vectores pintados: 19
-Promedio del tamaño de los vectores: 1.0796859007912118
-
-Para las imágenes imagenes1/image_1377.jpg y imagenes1/image_1378.jpg:
-Total de vectores pintados: 17
-Promedio del tamaño de los vectores: 1.3931522370974103
-
-Para las imágenes imagenes1/image_1378.jpg y imagenes1/image_1379.jpg:
-Total de vectores pintados: 20
-Promedio del tamaño de los vectores: 1.443266708375585
-
-Para las imágenes imagenes1/image_1380.jpg y imagenes1/image_1381.jpg:
-Total de vectores pintados: 21
-Promedio del tamaño de los vectores: 1.6015421786279145
-
-Para las imágenes imagenes1/image_1381.jpg y imagenes1/image_1382.jpg:
-Total de vectores pintados: 18
-Promedio del tamaño de los vectores: 1.0988982229036615
-
-Para las imágenes imagenes1/image_1383.jpg y imagenes1/image_1384.jpg:
-Total de vectores pintados: 13
-Promedio del tamaño de los vectores: 0.9668986658051253
-
-Para las imágenes imagenes1/image_1384.jpg y imagenes1/image_1385.jpg:
-Total de vectores pintados: 12
-Promedio del tamaño de los vectores: 1.1881253366912434
-
-Para las imágenes imagenes1/image_1385.jpg y imagenes1/image_1386.jpg:
-Total de vectores pintados: 11
-Promedio del tamaño de los vectores: 1.2066012371668775
-
-Para las imágenes imagenes1/image_1387.jpg y imagenes1/image_1388.jpg:
-Total de vectores pintados: 14
-Promedio del tamaño de los vectores: 1.3468311109381508
-
-Para las imágenes imagenes1/image_1388.jpg y imagenes1/image_1389.jpg:
-Total de vectores pintados: 19
-Promedio del tamaño de los vectores: 3.496609905524203
-
-Para las imágenes imagenes1/image_1390.jpg y imagenes1/image_1391.jpg:
-Total de vectores pintados: 24
-Promedio del tamaño de los vectores: 1.63914680348818
-
-Para las imágenes imagenes1/image_1391.jpg y imagenes1/image_1392.jpg:
-Total de vectores pintados: 18
-Promedio del tamaño de los vectores: 1.6272897449595731
-
-Para las imágenes imagenes1/image_1392.jpg y imagenes1/image_1393.jpg:
-Total de vectores pintados: 24
-Promedio del tamaño de los vectores: 1.7039508275230515
-
-Para las imágenes imagenes1/image_1394.jpg y imagenes1/image_1395.jpg:
-Total de vectores pintados: 20
-Promedio del tamaño de los vectores: 1.2563500671507808
-
-Para las imágenes imagenes1/image_1395.jpg y imagenes1/image_1396.jpg:
-Total de vectores pintados: 12
-Promedio del tamaño de los vectores: 0.8870731140682452
-
-Para las imágenes imagenes1/image_1397.jpg y imagenes1/image_1398.jpg:
-Total de vectores pintados: 4
-Promedio del tamaño de los vectores: 0.7213645616638431
-
-Para las imágenes imagenes1/image_1401.jpg y imagenes1/image_1402.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.922129843896928
-
-Para las imágenes imagenes1/image_1405.jpg y imagenes1/image_1406.jpg:
-Total de vectores pintados: 2
-Promedio del tamaño de los vectores: 0.7126953399630591
-
-Para las imágenes imagenes1/image_1406.jpg y imagenes1/image_1407.jpg:
-Total de vectores pintados: 3
-Promedio del tamaño de los vectores: 1.0580724515551394
-
-Para las imágenes imagenes1/image_1408.jpg y imagenes1/image_1409.jpg:
-Total de vectores pintados: 5
-Promedio del tamaño de los vectores: 0.9738894099622228
-
-Para las imágenes imagenes1/image_1409.jpg y imagenes1/image_1410.jpg:
-Total de vectores pintados: 3
-Promedio del tamaño de los vectores: 1.0493090133359417
-
-Para las imágenes imagenes1/image_1410.jpg y imagenes1/image_1411.jpg:
-Total de vectores pintados: 3
-Promedio del tamaño de los vectores: 1.0249774173919939
-
-Para las imágenes imagenes1/image_1412.jpg y imagenes1/image_1413.jpg:
-Total de vectores pintados: 3
-Promedio del tamaño de los vectores: 0.6728213804211122
-
-Para las imágenes imagenes1/image_1413.jpg y imagenes1/image_1414.jpg:
-Total de vectores pintados: 6
-Promedio del tamaño de los vectores: 0.6724420420812295
-
-Para las imágenes imagenes1/image_1414.jpg y imagenes1/image_1415.jpg:
+Magnitud del vector 37: 0.850670054527253
+Para las imágenes imagenes1/image_0025.jpg y imagenes1/image_0026.jpg:
 Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.5035555205421676
+Mediana del tamaño de los vectores: 0.850670054527253
 
-Para las imágenes imagenes1/image_1415.jpg y imagenes1/image_1416.jpg:
-Total de vectores pintados: 6
-Promedio del tamaño de los vectores: 1.3171967761823795
-
-Para las imágenes imagenes1/image_1416.jpg y imagenes1/image_1417.jpg:
-Total de vectores pintados: 4
-Promedio del tamaño de los vectores: 0.6914781312003185
-
-Para las imágenes imagenes1/image_1417.jpg y imagenes1/image_1418.jpg:
-Total de vectores pintados: 2
-Promedio del tamaño de los vectores: 0.5111750972437419
-
-Para las imágenes imagenes1/image_1419.jpg y imagenes1/image_1420.jpg:
-Total de vectores pintados: 2
-Promedio del tamaño de los vectores: 0.7169074112721738
-
-Para las imágenes imagenes1/image_1427.jpg y imagenes1/image_1428.jpg:
-Total de vectores pintados: 2
-Promedio del tamaño de los vectores: 0.912219077722203
-
-Para las imágenes imagenes1/image_1429.jpg y imagenes1/image_1430.jpg:
-Total de vectores pintados: 3
-Promedio del tamaño de los vectores: 0.901652238074055
-
-Para las imágenes imagenes1/image_1430.jpg y imagenes1/image_1431.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.5202370592168686
-
-Para las imágenes imagenes1/image_1439.jpg y imagenes1/image_1440.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.8625038583292811
-
-Para las imágenes imagenes1/image_1440.jpg y imagenes1/image_1441.jpg:
-Total de vectores pintados: 3
-Promedio del tamaño de los vectores: 0.7715576467318778
-
-Para las imágenes imagenes1/image_1441.jpg y imagenes1/image_1442.jpg:
-Total de vectores pintados: 4
-Promedio del tamaño de los vectores: 0.7020557100403445
-
-Para las imágenes imagenes1/image_1442.jpg y imagenes1/image_1443.jpg:
-Total de vectores pintados: 2
-Promedio del tamaño de los vectores: 0.6527090250649535
-
-Para las imágenes imagenes1/image_1454.jpg y imagenes1/image_1455.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.7544038916770208
-
-Para las imágenes imagenes1/image_1455.jpg y imagenes1/image_1456.jpg:
-Total de vectores pintados: 2
-Promedio del tamaño de los vectores: 0.7175613980113965
-
-Para las imágenes imagenes1/image_1456.jpg y imagenes1/image_1457.jpg:
-Total de vectores pintados: 3
-Promedio del tamaño de los vectores: 0.7297563576631173
-
-Para las imágenes imagenes1/image_1461.jpg y imagenes1/image_1462.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.5036131520222129
-
-Para las imágenes imagenes1/image_1465.jpg y imagenes1/image_1466.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.969502692255647
-
-Para las imágenes imagenes1/image_1466.jpg y imagenes1/image_1467.jpg:
-Total de vectores pintados: 2
-Promedio del tamaño de los vectores: 0.8808855172078256
-
-Para las imágenes imagenes1/image_1467.jpg y imagenes1/image_1468.jpg:
-Total de vectores pintados: 3
-Promedio del tamaño de los vectores: 1.3849840523055466
-
-Para las imágenes imagenes1/image_1469.jpg y imagenes1/image_1470.jpg:
-Total de vectores pintados: 3
-Promedio del tamaño de los vectores: 0.934836771375717
-
-Para las imágenes imagenes1/image_1470.jpg y imagenes1/image_1471.jpg:
-Total de vectores pintados: 2
-Promedio del tamaño de los vectores: 0.6195185626772941
-
-Para las imágenes imagenes1/image_1479.jpg y imagenes1/image_1480.jpg:
-Total de vectores pintados: 2
-Promedio del tamaño de los vectores: 1.0749767000404902
-
-Para las imágenes imagenes1/image_1480.jpg y imagenes1/image_1481.jpg:
-Total de vectores pintados: 4
-Promedio del tamaño de los vectores: 0.8753653449609675
-
-Para las imágenes imagenes1/image_1483.jpg y imagenes1/image_1484.jpg:
-Total de vectores pintados: 2
-Promedio del tamaño de los vectores: 0.6856885934491457
-
-Para las imágenes imagenes1/image_1490.jpg y imagenes1/image_1491.jpg:
-Total de vectores pintados: 2
-Promedio del tamaño de los vectores: 0.7083991416974792
-
-Para las imágenes imagenes1/image_1491.jpg y imagenes1/image_1492.jpg:
-Total de vectores pintados: 2
-Promedio del tamaño de los vectores: 1.0114233608591516
-
-Para las imágenes imagenes1/image_1499.jpg y imagenes1/image_1500.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.653718351860856
-
-Para las imágenes imagenes1/image_1519.jpg y imagenes1/image_1520.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.6583139979022987
-
-Para las imágenes imagenes1/image_1547.jpg y imagenes1/image_1548.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.5120896790461016
-
-Para las imágenes imagenes1/image_1572.jpg y imagenes1/image_1573.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.8526386457357454
-
-Para las imágenes imagenes1/image_1580.jpg y imagenes1/image_1581.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.5063560698613974
-
-Para las imágenes imagenes1/image_1636.jpg y imagenes1/image_1637.jpg:
-Total de vectores pintados: 2
-Promedio del tamaño de los vectores: 0.5183246381740381
-
-Para las imágenes imagenes1/image_1644.jpg y imagenes1/image_1645.jpg:
-Total de vectores pintados: 5
-Promedio del tamaño de los vectores: 0.5709773347013657
-
-Para las imágenes imagenes1/image_1645.jpg y imagenes1/image_1646.jpg:
-Total de vectores pintados: 5
-Promedio del tamaño de los vectores: 0.6063843338900806
-
-Para las imágenes imagenes1/image_1650.jpg y imagenes1/image_1651.jpg:
-Total de vectores pintados: 2
-Promedio del tamaño de los vectores: 0.6034135422053246
-
-Para las imágenes imagenes1/image_1651.jpg y imagenes1/image_1652.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.5534492125681465
-
-Para las imágenes imagenes1/image_1652.jpg y imagenes1/image_1653.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.5766629945041568
-
-Para las imágenes imagenes1/image_1654.jpg y imagenes1/image_1655.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.7468880440773606
-
-Para las imágenes imagenes1/image_1657.jpg y imagenes1/image_1658.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.6720817525121268
-
-Para las imágenes imagenes1/image_1658.jpg y imagenes1/image_1659.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.599565810382305
-
-Para las imágenes imagenes1/image_1661.jpg y imagenes1/image_1662.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.5632501985570484
-
-Para las imágenes imagenes1/image_1662.jpg y imagenes1/image_1663.jpg:
-Total de vectores pintados: 2
-Promedio del tamaño de los vectores: 0.6355879916867389
-
-Para las imágenes imagenes1/image_1663.jpg y imagenes1/image_1664.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.5367929757806198
-
-Para las imágenes imagenes1/image_1664.jpg y imagenes1/image_1665.jpg:
-Total de vectores pintados: 5
-Promedio del tamaño de los vectores: 0.6777507627023043
-
-Para las imágenes imagenes1/image_1665.jpg y imagenes1/image_1666.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 1.8944173695223594
-
-Para las imágenes imagenes1/image_1666.jpg y imagenes1/image_1667.jpg:
-Total de vectores pintados: 9
-Promedio del tamaño de los vectores: 1.0275388362426245
-
-Para las imágenes imagenes1/image_1668.jpg y imagenes1/image_1669.jpg:
-Total de vectores pintados: 14
-Promedio del tamaño de los vectores: 1.438137708125179
-
-Para las imágenes imagenes1/image_1669.jpg y imagenes1/image_1670.jpg:
-Total de vectores pintados: 13
-Promedio del tamaño de los vectores: 1.2293259407031951
-
-Para las imágenes imagenes1/image_1671.jpg y imagenes1/image_1672.jpg:
-Total de vectores pintados: 12
-Promedio del tamaño de los vectores: 1.5997221545450693
-
-Para las imágenes imagenes1/image_1672.jpg y imagenes1/image_1673.jpg:
-Total de vectores pintados: 13
-Promedio del tamaño de los vectores: 3.7157267194211907
-
-Para las imágenes imagenes1/image_1673.jpg y imagenes1/image_1674.jpg:
-Total de vectores pintados: 12
-Promedio del tamaño de los vectores: 1.2837494702083962
-
-Para las imágenes imagenes1/image_1675.jpg y imagenes1/image_1676.jpg:
-Total de vectores pintados: 16
-Promedio del tamaño de los vectores: 1.5108282642849746
-
-Para las imágenes imagenes1/image_1676.jpg y imagenes1/image_1677.jpg:
-Total de vectores pintados: 14
-Promedio del tamaño de los vectores: 1.262396450611775
-
-Para las imágenes imagenes1/image_1677.jpg y imagenes1/image_1678.jpg:
-Total de vectores pintados: 21
-Promedio del tamaño de los vectores: 1.1130830274166077
-
-Para las imágenes imagenes1/image_1679.jpg y imagenes1/image_1680.jpg:
-Total de vectores pintados: 21
-Promedio del tamaño de los vectores: 1.1976150225027986
-
-Para las imágenes imagenes1/image_1680.jpg y imagenes1/image_1681.jpg:
-Total de vectores pintados: 18
-Promedio del tamaño de los vectores: 1.0077239719286448
-
-Para las imágenes imagenes1/image_1681.jpg y imagenes1/image_1682.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.5578337462741525
-
-Para las imágenes imagenes1/image_1682.jpg y imagenes1/image_1683.jpg:
-Total de vectores pintados: 18
-Promedio del tamaño de los vectores: 0.9861995827632154
-
-Para las imágenes imagenes1/image_1683.jpg y imagenes1/image_1684.jpg:
-Total de vectores pintados: 13
-Promedio del tamaño de los vectores: 1.395549811105228
-
-Para las imágenes imagenes1/image_1684.jpg y imagenes1/image_1685.jpg:
-Total de vectores pintados: 19
-Promedio del tamaño de los vectores: 1.2241474744829361
-
-Para las imágenes imagenes1/image_1686.jpg y imagenes1/image_1687.jpg:
-Total de vectores pintados: 19
-Promedio del tamaño de los vectores: 0.9199993348254111
-
-Para las imágenes imagenes1/image_1687.jpg y imagenes1/image_1688.jpg:
-Total de vectores pintados: 17
-Promedio del tamaño de los vectores: 0.8373746533880109
-
-Para las imágenes imagenes1/image_1689.jpg y imagenes1/image_1690.jpg:
-Total de vectores pintados: 14
-Promedio del tamaño de los vectores: 0.7604871577243616
-
-Para las imágenes imagenes1/image_1690.jpg y imagenes1/image_1691.jpg:
-Total de vectores pintados: 12
-Promedio del tamaño de los vectores: 0.7272260869561237
-
-Para las imágenes imagenes1/image_1691.jpg y imagenes1/image_1692.jpg:
-Total de vectores pintados: 13
-Promedio del tamaño de los vectores: 0.6299404537822592
-
-Para las imágenes imagenes1/image_1693.jpg y imagenes1/image_1694.jpg:
-Total de vectores pintados: 7
-Promedio del tamaño de los vectores: 0.6356907847117005
-
-Para las imágenes imagenes1/image_1694.jpg y imagenes1/image_1695.jpg:
-Total de vectores pintados: 3
-Promedio del tamaño de los vectores: 0.6377545423274394
-
-Para las imágenes imagenes1/image_1696.jpg y imagenes1/image_1697.jpg:
-Total de vectores pintados: 6
-Promedio del tamaño de los vectores: 0.578767924799723
-
-Para las imágenes imagenes1/image_1697.jpg y imagenes1/image_1698.jpg:
-Total de vectores pintados: 4
-Promedio del tamaño de los vectores: 0.6291813561240606
-
-Para las imágenes imagenes1/image_1698.jpg y imagenes1/image_1699.jpg:
-Total de vectores pintados: 4
-Promedio del tamaño de los vectores: 0.6490928406654591
-
-Para las imágenes imagenes1/image_1700.jpg y imagenes1/image_1701.jpg:
-Total de vectores pintados: 15
-Promedio del tamaño de los vectores: 0.8181219333600812
-
-Para las imágenes imagenes1/image_1701.jpg y imagenes1/image_1702.jpg:
-Total de vectores pintados: 8
-Promedio del tamaño de los vectores: 0.6379757051750603
-
-Para las imágenes imagenes1/image_1703.jpg y imagenes1/image_1704.jpg:
-Total de vectores pintados: 15
-Promedio del tamaño de los vectores: 0.7226047684297413
-
-Para las imágenes imagenes1/image_1704.jpg y imagenes1/image_1705.jpg:
-Total de vectores pintados: 12
-Promedio del tamaño de los vectores: 0.7945755954886722
-
-Para las imágenes imagenes1/image_1705.jpg y imagenes1/image_1706.jpg:
-Total de vectores pintados: 11
-Promedio del tamaño de los vectores: 0.9314797478307523
-
-Para las imágenes imagenes1/image_1707.jpg y imagenes1/image_1708.jpg:
-Total de vectores pintados: 14
-Promedio del tamaño de los vectores: 0.9484128511832822
-
-Para las imágenes imagenes1/image_1708.jpg y imagenes1/image_1709.jpg:
-Total de vectores pintados: 10
-Promedio del tamaño de los vectores: 1.1083685465364321
-
-Para las imágenes imagenes1/image_1709.jpg y imagenes1/image_1710.jpg:
-Total de vectores pintados: 9
-Promedio del tamaño de los vectores: 1.1999988952932403
-
-Para las imágenes imagenes1/image_1711.jpg y imagenes1/image_1712.jpg:
-Total de vectores pintados: 12
-Promedio del tamaño de los vectores: 1.162079413455813
-
-Para las imágenes imagenes1/image_1712.jpg y imagenes1/image_1713.jpg:
-Total de vectores pintados: 13
-Promedio del tamaño de los vectores: 0.9594005014376925
-
-Para las imágenes imagenes1/image_1714.jpg y imagenes1/image_1715.jpg:
-Total de vectores pintados: 10
-Promedio del tamaño de los vectores: 1.1096466265703109
-
-Para las imágenes imagenes1/image_1715.jpg y imagenes1/image_1716.jpg:
-Total de vectores pintados: 11
-Promedio del tamaño de los vectores: 1.0593137407179298
-
-Para las imágenes imagenes1/image_1716.jpg y imagenes1/image_1717.jpg:
-Total de vectores pintados: 9
-Promedio del tamaño de los vectores: 1.0030863744787306
-
-Para las imágenes imagenes1/image_1717.jpg y imagenes1/image_1718.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.6830126802407893
-
-Para las imágenes imagenes1/image_1718.jpg y imagenes1/image_1719.jpg:
-Total de vectores pintados: 2
-Promedio del tamaño de los vectores: 0.9451142123642191
-
-Para las imágenes imagenes1/image_1722.jpg y imagenes1/image_1723.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.5767048599218301
-
-Para las imágenes imagenes1/image_1759.jpg y imagenes1/image_1760.jpg:
-Total de vectores pintados: 2
-Promedio del tamaño de los vectores: 0.8307494440304073
-
-Para las imágenes imagenes1/image_1761.jpg y imagenes1/image_1762.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.7189276951238052
-
-Para las imágenes imagenes1/image_1762.jpg y imagenes1/image_1763.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.8518491351056735
-
-Para las imágenes imagenes1/image_1798.jpg y imagenes1/image_1799.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.6678768090849863
-
-Para las imágenes imagenes1/image_1803.jpg y imagenes1/image_1804.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.6337489165751448
-
-Para las imágenes imagenes1/image_1804.jpg y imagenes1/image_1805.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.9193890091427444
-
-Para las imágenes imagenes1/image_1805.jpg y imagenes1/image_1806.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 1.1739707272452853
-
-Para las imágenes imagenes1/image_1807.jpg y imagenes1/image_1808.jpg:
-Total de vectores pintados: 3
-Promedio del tamaño de los vectores: 0.7049774042969917
-
-Para las imágenes imagenes1/image_1808.jpg y imagenes1/image_1809.jpg:
-Total de vectores pintados: 3
-Promedio del tamaño de los vectores: 0.6751538925897451
-
-Para las imágenes imagenes1/image_1810.jpg y imagenes1/image_1811.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.5045496754007838
-
-Para las imágenes imagenes1/image_1812.jpg y imagenes1/image_1813.jpg:
-Total de vectores pintados: 2
-Promedio del tamaño de los vectores: 0.5611351521414667
-
-Para las imágenes imagenes1/image_1814.jpg y imagenes1/image_1815.jpg:
-Total de vectores pintados: 4
-Promedio del tamaño de los vectores: 0.7814566905118447
-
-Para las imágenes imagenes1/image_1815.jpg y imagenes1/image_1816.jpg:
-Total de vectores pintados: 6
-Promedio del tamaño de los vectores: 0.7042028016373902
-
-Para las imágenes imagenes1/image_1817.jpg y imagenes1/image_1818.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.605188142226363
-
-Para las imágenes imagenes1/image_1819.jpg y imagenes1/image_1820.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.9252444610790203
-
-Para las imágenes imagenes1/image_1821.jpg y imagenes1/image_1822.jpg:
-Total de vectores pintados: 2
-Promedio del tamaño de los vectores: 0.9227444306062214
-
-Para las imágenes imagenes1/image_1822.jpg y imagenes1/image_1823.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 1.0041984932343997
-
-Para las imágenes imagenes1/image_1823.jpg y imagenes1/image_1824.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.6803029663142117
-
-Para las imágenes imagenes1/image_1828.jpg y imagenes1/image_1829.jpg:
-Total de vectores pintados: 2
-Promedio del tamaño de los vectores: 0.6072271814371616
-
-Para las imágenes imagenes1/image_1829.jpg y imagenes1/image_1830.jpg:
-Total de vectores pintados: 9
-Promedio del tamaño de los vectores: 0.6832661666979164
-
-Para las imágenes imagenes1/image_1830.jpg y imagenes1/image_1831.jpg:
-Total de vectores pintados: 9
-Promedio del tamaño de los vectores: 0.7088299065338232
-
-Para las imágenes imagenes1/image_1832.jpg y imagenes1/image_1833.jpg:
-Total de vectores pintados: 6
-Promedio del tamaño de los vectores: 0.9770234835690209
-
-Para las imágenes imagenes1/image_1835.jpg y imagenes1/image_1836.jpg:
-Total de vectores pintados: 2
-Promedio del tamaño de los vectores: 0.8699784178239188
-
-Para las imágenes imagenes1/image_1836.jpg y imagenes1/image_1837.jpg:
-Total de vectores pintados: 6
-Promedio del tamaño de los vectores: 0.8467793931264058
-
-Para las imágenes imagenes1/image_1837.jpg y imagenes1/image_1838.jpg:
-Total de vectores pintados: 9
-Promedio del tamaño de los vectores: 0.8889098261979083
-
-Para las imágenes imagenes1/image_1839.jpg y imagenes1/image_1840.jpg:
-Total de vectores pintados: 15
-Promedio del tamaño de los vectores: 0.9521207453525169
-
-Para las imágenes imagenes1/image_1840.jpg y imagenes1/image_1841.jpg:
-Total de vectores pintados: 3
-Promedio del tamaño de los vectores: 0.5496345165897644
-
-Para las imágenes imagenes1/image_1843.jpg y imagenes1/image_1844.jpg:
-Total de vectores pintados: 10
-Promedio del tamaño de los vectores: 0.7913883895044233
-
-Para las imágenes imagenes1/image_1844.jpg y imagenes1/image_1845.jpg:
-Total de vectores pintados: 9
-Promedio del tamaño de los vectores: 1.0555928780233232
-
-Para las imágenes imagenes1/image_1846.jpg y imagenes1/image_1847.jpg:
-Total de vectores pintados: 10
-Promedio del tamaño de los vectores: 1.0773023325086313
-
-Para las imágenes imagenes1/image_1847.jpg y imagenes1/image_1848.jpg:
-Total de vectores pintados: 6
-Promedio del tamaño de los vectores: 1.1344615577602437
-
-Para las imágenes imagenes1/image_1849.jpg y imagenes1/image_1850.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.6476843725856348
-
-Para las imágenes imagenes1/image_1850.jpg y imagenes1/image_1851.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 1.1515933904432052
-
-Para las imágenes imagenes1/image_1851.jpg y imagenes1/image_1852.jpg:
-Total de vectores pintados: 6
-Promedio del tamaño de los vectores: 1.3372504189492087
-
-Para las imágenes imagenes1/image_1853.jpg y imagenes1/image_1854.jpg:
-Total de vectores pintados: 7
-Promedio del tamaño de los vectores: 1.0102749653282066
-
-Para las imágenes imagenes1/image_1854.jpg y imagenes1/image_1855.jpg:
-Total de vectores pintados: 10
-Promedio del tamaño de los vectores: 0.859728550240186
-
-Para las imágenes imagenes1/image_1855.jpg y imagenes1/image_1856.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.7294527077699846
-
-Para las imágenes imagenes1/image_1858.jpg y imagenes1/image_1859.jpg:
-Total de vectores pintados: 10
-Promedio del tamaño de los vectores: 0.7497709062771445
-
-Para las imágenes imagenes1/image_1860.jpg y imagenes1/image_1861.jpg:
-Total de vectores pintados: 14
-Promedio del tamaño de los vectores: 1.11354754183957
-
-Para las imágenes imagenes1/image_1861.jpg y imagenes1/image_1862.jpg:
-Total de vectores pintados: 12
-Promedio del tamaño de los vectores: 1.161332279698182
-
-Para las imágenes imagenes1/image_1862.jpg y imagenes1/image_1863.jpg:
-Total de vectores pintados: 12
-Promedio del tamaño de los vectores: 1.142068736163229
-
-Para las imágenes imagenes1/image_1864.jpg y imagenes1/image_1865.jpg:
-Total de vectores pintados: 6
-Promedio del tamaño de los vectores: 1.2402056342876302
-
-Para las imágenes imagenes1/image_1868.jpg y imagenes1/image_1869.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.8594613831275413
-
-Para las imágenes imagenes1/image_1869.jpg y imagenes1/image_1870.jpg:
-Total de vectores pintados: 3
-Promedio del tamaño de los vectores: 1.1529899951328046
-
-Para las imágenes imagenes1/image_1871.jpg y imagenes1/image_1872.jpg:
-Total de vectores pintados: 4
-Promedio del tamaño de los vectores: 1.1903890396051346
-
-Para las imágenes imagenes1/image_1872.jpg y imagenes1/image_1873.jpg:
-Total de vectores pintados: 7
-Promedio del tamaño de los vectores: 1.4371974198432385
-
-Para las imágenes imagenes1/image_1874.jpg y imagenes1/image_1875.jpg:
-Total de vectores pintados: 5
-Promedio del tamaño de los vectores: 1.222440684709335
-
-Para las imágenes imagenes1/image_1875.jpg y imagenes1/image_1876.jpg:
-Total de vectores pintados: 6
-Promedio del tamaño de los vectores: 0.8433056256547148
-
-Para las imágenes imagenes1/image_1876.jpg y imagenes1/image_1877.jpg:
-Total de vectores pintados: 5
-Promedio del tamaño de los vectores: 0.687633142875989
-
-Para las imágenes imagenes1/image_1878.jpg y imagenes1/image_1879.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.6920869554718702
-
-Para las imágenes imagenes1/image_1880.jpg y imagenes1/image_1881.jpg:
-Total de vectores pintados: 2
-Promedio del tamaño de los vectores: 0.6043552335910135
-
-Para las imágenes imagenes1/image_1882.jpg y imagenes1/image_1883.jpg:
-Total de vectores pintados: 3
-Promedio del tamaño de los vectores: 0.8721092068229827
-
-Para las imágenes imagenes1/image_1883.jpg y imagenes1/image_1884.jpg:
-Total de vectores pintados: 3
-Promedio del tamaño de los vectores: 1.0182781541148653
-
-Para las imágenes imagenes1/image_1884.jpg y imagenes1/image_1885.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.5345549903892632
-
-Para las imágenes imagenes1/image_1885.jpg y imagenes1/image_1886.jpg:
-Total de vectores pintados: 4
-Promedio del tamaño de los vectores: 0.7653775288846679
-
-Para las imágenes imagenes1/image_1886.jpg y imagenes1/image_1887.jpg:
-Total de vectores pintados: 2
-Promedio del tamaño de los vectores: 0.5779686289182474
-
-Para las imágenes imagenes1/image_1894.jpg y imagenes1/image_1895.jpg:
-Total de vectores pintados: 4
-Promedio del tamaño de los vectores: 0.826373955658898
-
-Para las imágenes imagenes1/image_1895.jpg y imagenes1/image_1896.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.58623629203629
-
-Para las imágenes imagenes1/image_1896.jpg y imagenes1/image_1897.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.54028410169188
-
-Para las imágenes imagenes1/image_1899.jpg y imagenes1/image_1900.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.8787269972756293
-
-Para las imágenes imagenes1/image_1901.jpg y imagenes1/image_1902.jpg:
-Total de vectores pintados: 2
-Promedio del tamaño de los vectores: 0.6557458718234703
-
-Para las imágenes imagenes1/image_1902.jpg y imagenes1/image_1903.jpg:
-Total de vectores pintados: 2
-Promedio del tamaño de los vectores: 0.9950086023155063
-
-Para las imágenes imagenes1/image_1904.jpg y imagenes1/image_1905.jpg:
-Total de vectores pintados: 3
-Promedio del tamaño de los vectores: 0.7496959829158426
-
-Para las imágenes imagenes1/image_1906.jpg y imagenes1/image_1907.jpg:
-Total de vectores pintados: 8
-Promedio del tamaño de los vectores: 0.7591135423907098
-
-Para las imágenes imagenes1/image_1907.jpg y imagenes1/image_1908.jpg:
-Total de vectores pintados: 11
-Promedio del tamaño de los vectores: 0.8261945847057643
-
-Para las imágenes imagenes1/image_1908.jpg y imagenes1/image_1909.jpg:
-Total de vectores pintados: 9
-Promedio del tamaño de los vectores: 0.6251324050002526
-
-Para las imágenes imagenes1/image_1956.jpg y imagenes1/image_1957.jpg:
-Total de vectores pintados: 2
-Promedio del tamaño de los vectores: 0.5961481355005157
-
-Para las imágenes imagenes1/image_1975.jpg y imagenes1/image_1976.jpg:
-Total de vectores pintados: 2
-Promedio del tamaño de los vectores: 0.7059023140835924
-
-Para las imágenes imagenes1/image_1976.jpg y imagenes1/image_1977.jpg:
-Total de vectores pintados: 4
-Promedio del tamaño de los vectores: 0.8414684574745872
-
-Para las imágenes imagenes1/image_1978.jpg y imagenes1/image_1979.jpg:
-Total de vectores pintados: 5
-Promedio del tamaño de los vectores: 1.0045017932151477
-
-Para las imágenes imagenes1/image_1979.jpg y imagenes1/image_1980.jpg:
-Total de vectores pintados: 3
-Promedio del tamaño de los vectores: 0.7604235875221109
-
-Para las imágenes imagenes1/image_1981.jpg y imagenes1/image_1982.jpg:
-Total de vectores pintados: 8
-Promedio del tamaño de los vectores: 0.7538483875181139
-
-Para las imágenes imagenes1/image_1982.jpg y imagenes1/image_1983.jpg:
-Total de vectores pintados: 5
-Promedio del tamaño de los vectores: 0.6523086662731592
-
-Para las imágenes imagenes1/image_1986.jpg y imagenes1/image_1987.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.5347304718072322
-
-Para las imágenes imagenes1/image_2021.jpg y imagenes1/image_2022.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.6129829437149782
-
-Para las imágenes imagenes1/image_2027.jpg y imagenes1/image_2028.jpg:
-Total de vectores pintados: 3
-Promedio del tamaño de los vectores: 0.7635000695148678
-
-Para las imágenes imagenes1/image_2028.jpg y imagenes1/image_2029.jpg:
-Total de vectores pintados: 3
-Promedio del tamaño de los vectores: 0.616158635473359
-
-Para las imágenes imagenes1/image_2033.jpg y imagenes1/image_2034.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.5295751866189775
-
-Para las imágenes imagenes1/image_2060.jpg y imagenes1/image_2061.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.5102723284048366
-
-Para las imágenes imagenes1/image_2061.jpg y imagenes1/image_2062.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.5248689268313491
-
-Para las imágenes imagenes1/image_2079.jpg y imagenes1/image_2080.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.8595296028793427
-
-Para las imágenes imagenes1/image_2104.jpg y imagenes1/image_2105.jpg:
-Total de vectores pintados: 2
-Promedio del tamaño de los vectores: 0.7225024226040111
-
-Para las imágenes imagenes1/image_2106.jpg y imagenes1/image_2107.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.7709123271961045
-
-Para las imágenes imagenes1/image_2109.jpg y imagenes1/image_2110.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.5338799737469564
-
-Para las imágenes imagenes1/image_2140.jpg y imagenes1/image_2141.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.7909298026437404
-
-Para las imágenes imagenes1/image_2182.jpg y imagenes1/image_2183.jpg:
+Magnitud del vector 34: 0.9805255070063785
+Para las imágenes imagenes1/image_0027.jpg y imagenes1/image_0028.jpg:
 Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.5662895507545533
+Mediana del tamaño de los vectores: 0.9805255070063785
 
-Para las imágenes imagenes1/image_2192.jpg y imagenes1/image_2193.jpg:
-Total de vectores pintados: 2
-Promedio del tamaño de los vectores: 1.1299014102384304
-
-Para las imágenes imagenes1/image_2209.jpg y imagenes1/image_2210.jpg:
-Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.525809247327548
-
-Para las imágenes imagenes1/image_2224.jpg y imagenes1/image_2225.jpg:
+Magnitud del vector 36: 0.6674554480759356
+Para las imágenes imagenes1/image_0028.jpg y imagenes1/image_0029.jpg:
 Total de vectores pintados: 1
-Promedio del tamaño de los vectores: 0.5100329933635285
-
-Para las imágenes imagenes1/image_2225.jpg y imagenes1/image_2226.jpg:
-Total de vectores pintados: 2
-Promedio del tamaño de los vectores: 0.5425650232062519
+Mediana del tamaño de los vectores: 0.6674554480759356
 
