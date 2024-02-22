@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 window = "Lucas-Kanade Optical Flow"
-video_path = "SegundaParte/cortado.mp4"
+video_path = "SegundaParte/video.mp4"
 output_video_path = "videos/LK.mp4"
 
 capture = cv2.VideoCapture(video_path)
@@ -29,7 +29,8 @@ lk_params = dict(winSize=(50, 50), maxLevel=4, criteria=(cv2.TERM_CRITERIA_EPS |
 # Inicializar algunas variables
 old_gray = None
 p0 = None
-
+blue_vectors_count = 0  # Contador de vectores azules pintados
+iteration_count = 0  # Contador de iteraciones
 
 while True:
     # Capturar el cuadro actual del video
@@ -57,39 +58,62 @@ while True:
             good_new = p1[st == 1]
             good_old = p0[st == 1]
 
-            # Dibujar los vectores de movimiento
-            suma=0
+            # Coordenadas de los puntos de inicio de los vectores azules
+            blue_start_points = []
+
+            # Dibujar los vectores de movimiento y detectar celdas con magnitud mayor a 1.5
             for i, (new, old) in enumerate(zip(good_new, good_old)):
                 a, b = new.ravel()
                 c, d = old.ravel()
                 vector = (a - c, b - d)
+
+                # Filtrar vectores con magnitud significativa
                 magnitude = np.sqrt(vector[0] ** 2 + vector[1] ** 2)
-                if magnitude > 0.5:  # Solo dibujar si la magnitud supera el umbral // si la magnitus es mayor a 1.5 ointar la celda
-                    color = (0, 255, 0) if magnitude <= 5 else (0, 0, 255) if magnitude <= 7 else (255, 0, 0)
+                if magnitude > 0.5:  # Mantenemos el umbral en 0.5
+                    if magnitude > 6:
+                        color = (255, 0, 0)  # Pintar de azul si la magnitud es mayor a 1.5
+                        blue_vectors_count += 1  # Incrementar el contador de vectores azules
+                    else:
+                        color = (0, 255, 0)  # Pintar de verde si la magnitud es menor o igual a 1.5
                     cv2.arrowedLine(frame, (int(c), int(d)), (int(c + 5 * vector[0]), int(d + 5 * vector[1])), color, 2)
 
-                    # Contar los vectores que superan el umbral
-                    suma += 1
-                    print(suma)
+                    # Registrar los puntos de inicio de los vectores azules
+                    if color == (255, 0, 0):
+                        blue_start_points.append((int(c), int(d)))
+                else:
+                    # Remover los puntos de inicio de los vectores que ya no están presentes
+                    blue_start_points = [(x, y) for x, y in blue_start_points if any((abs(x - px) > 5 or abs(y - py) > 5) for px, py in good_new)]
 
-            # Pintar la celda de rojo si hay 13 o más vectores que superan el umbral
-            if suma >= 13:
-                for old in good_old:
-                    c, d = old.ravel()
-                    cell_x = c // cell_width
-                    cell_y = d // cell_height
-                    cv2.rectangle(frame, (int(cell_x * cell_width), int(cell_y * cell_height)), (int((cell_x + 1) * cell_width), int((cell_y + 1) * cell_height)), (0, 0, 255), -1)
-
+            # Pintar la celda donde comienza un vector azul de color rojo
+            for x, y in blue_start_points:
+                cell_x = x // cell_width
+                cell_y = y // cell_height
+                cv2.rectangle(frame, (cell_x * cell_width, cell_y * cell_height), ((cell_x + 1) * cell_width, (cell_y + 1) * cell_height), (0, 0, 255), -1)
 
             # Actualizar los puntos anteriores
             p0 = good_new.reshape(-1, 1, 2)
             old_gray = gray.copy()
 
+    # Dibujar la cuadrícula en cada celda
+    for i in range(0, width, cell_width):
+        cv2.line(frame, (i, 0), (i, height), (0, 255, 255), 1)
+    for j in range(0, height, cell_height):
+        cv2.line(frame, (0, j), (width, j), (0, 255, 255), 1)
+
     # Escribir el cuadro en el video de salida
     output_video.write(frame)
 
-    # Mostrar la imagen
+    # Mostrar la imagen con la cuadrícula
     cv2.imshow(window, frame)
+
+    # Imprimir el número de iteración y el número de vectores azules pintados en esta iteración
+    print("Iteración:", iteration_count, "- Número de vectores azules pintados:", blue_vectors_count)
+
+    # Reiniciar el contador de vectores azules para la próxima iteración
+    blue_vectors_count = 0
+
+    # Incrementar el contador de iteraciones
+    iteration_count += 1
 
     # Esperar el tiempo necesario para mantener la velocidad del video original
     key = cv2.waitKey(int(1000 / fps)) & 0xFF
@@ -102,4 +126,3 @@ while True:
 capture.release()
 output_video.release()
 cv2.destroyAllWindows()
-
