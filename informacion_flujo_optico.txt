@@ -1,87 +1,155 @@
-Magnitud del vector 55: 2.5853818076407746
+Magnitud del vector: 3.743870958595533
+Magnitud del vector: 3.8910183462434573
 Para las imágenes imagenes1/image_0003.jpg y imagenes1/image_0004.jpg:
-Total de vectores pintados: 1
-Mediana del tamaño de los vectores: 2.5853818076407746
-
-Magnitud del vector 26: 2.6374492905485885
-Magnitud del vector 65: 2.71632880358161
-Para las imágenes imagenes1/image_0007.jpg y imagenes1/image_0008.jpg:
 Total de vectores pintados: 2
-Mediana del tamaño de los vectores: 2.6768890470650994
+Mediana del tamaño de los vectores: 3.8174446524194954
 
-Magnitud del vector 17: 3.91788228279426
-Magnitud del vector 18: 2.9186623992422662
-Magnitud del vector 55: 3.3314683533559757
-Magnitud del vector 62: 4.056797004114265
-Magnitud del vector 75: 2.5772558600529334
+Magnitud del vector: 3.548027010571334
+Para las imágenes imagenes1/image_0006.jpg y imagenes1/image_0007.jpg:
+Total de vectores pintados: 1
+Mediana del tamaño de los vectores: 3.548027010571334
+
+Magnitud del vector: 3.6200384026172596
+Para las imágenes imagenes1/image_0007.jpg y imagenes1/image_0008.jpg:
+Total de vectores pintados: 1
+Mediana del tamaño de los vectores: 3.6200384026172596
+
+Magnitud del vector: 4.571077483990872
+Magnitud del vector: 4.821074776349629
+Magnitud del vector: 4.528324248337108
+Magnitud del vector: 4.509467932903806
+Magnitud del vector: 4.163409477014724
+Magnitud del vector: 4.145307542907315
 Para las imágenes imagenes1/image_0009.jpg y imagenes1/image_0010.jpg:
-Total de vectores pintados: 5
-Mediana del tamaño de los vectores: 3.3314683533559757
+Total de vectores pintados: 6
+Mediana del tamaño de los vectores: 4.518896090620457
 
-Magnitud del vector 14: 4.970114016281084
-Magnitud del vector 19: 3.1603349046531783
-Magnitud del vector 21: 4.764944918863675
-Magnitud del vector 23: 2.723224720602822
-Magnitud del vector 31: 2.609577297623285
-Magnitud del vector 32: 3.542862722480678
-Magnitud del vector 37: 4.1685565205201796
-Magnitud del vector 40: 2.922023252473548
-Magnitud del vector 56: 4.687627723910771
-Magnitud del vector 67: 5.044168084107787
-Magnitud del vector 75: 4.917175129260358
+Magnitud del vector: 4.953872310934334
+Magnitud del vector: 5.2303328556570206
+Magnitud del vector: 5.892343425331822
+Magnitud del vector: 3.972230604196137
+Magnitud del vector: 5.705191231861762
+Magnitud del vector: 5.521051697999061
+Magnitud del vector: 5.0229892159061205
+Magnitud del vector: 4.666385686234253
+Magnitud del vector: 5.105808559867713
+Magnitud del vector: 4.8106728164209125
+Magnitud del vector: 6.288712288723839
+Magnitud del vector: 5.95329803435273
+Magnitud del vector: 4.534618239219006
 Para las imágenes imagenes1/image_0010.jpg y imagenes1/image_0011.jpg:
-Total de vectores pintados: 11
-Mediana del tamaño de los vectores: 4.1685565205201796
+Total de vectores pintados: 13
+Mediana del tamaño de los vectores: 5.105808559867713
 
-Magnitud del vector 9: 2.955772835705669
-Magnitud del vector 12: 4.302672748936307
-Magnitud del vector 15: 4.993825276868843
-Magnitud del vector 21: 2.4324318933629048
-Magnitud del vector 23: 5.370529618880213
-Magnitud del vector 25: 2.458716984358048
-Magnitud del vector 33: 3.9660778427533674
-Magnitud del vector 56: 4.006537497131474
-Magnitud del vector 75: 5.992719815404882
+Magnitud del vector: 4.111859219758014
+Magnitud del vector: 3.8284238575973863
+Magnitud del vector: 6.701476640113702
+Magnitud del vector: 5.323252442324853
+Magnitud del vector: 5.299022450360159
+Magnitud del vector: 3.892350656871169
+Magnitud del vector: 5.7507034097179295
+Magnitud del vector: 5.782070004813106
+Magnitud del vector: 5.487919232425408
+Magnitud del vector: 5.954170447729547
+Magnitud del vector: 6.2919074330277445
+Magnitud del vector: 6.774456059790273
+Magnitud del vector: 4.261668338861761
+Magnitud del vector: 4.582589092943139
+Magnitud del vector: 5.558284225234957
+Magnitud del vector: 4.443862887920148
+Magnitud del vector: 4.1640344161143945
+Magnitud del vector: 4.220927927271504
 Para las imágenes imagenes1/image_0011.jpg y imagenes1/image_0012.jpg:
-Total de vectores pintados: 9
-Mediana del tamaño de los vectores: 4.006537497131474
+Total de vectores pintados: 18
+Mediana del tamaño de los vectores: 5.3111374463425065
 
-Magnitud del vector 13: 2.1082271963402857
-Magnitud del vector 15: 4.150070592665854
-Magnitud del vector 18: 3.1179118678867335
-Magnitud del vector 20: 5.922867816105382
-Magnitud del vector 21: 2.0441649665815875
-Magnitud del vector 42: 2.1698343781776326
-Magnitud del vector 51: 2.805791139943089
-Magnitud del vector 62: 5.027894277130652
-Magnitud del vector 67: 7.158095023964994
-Magnitud del vector 72: 8.14981446437894
-Magnitud del vector 73: 5.2990693405176685
+Magnitud del vector: 5.974626802608579
+Magnitud del vector: 4.556597030369538
+Magnitud del vector: 4.250477561472537
+Magnitud del vector: 4.355187673824451
+Magnitud del vector: 5.889208998408136
+Magnitud del vector: 3.9974942867808987
+Magnitud del vector: 4.234068880883359
+Magnitud del vector: 4.811460230823905
+Magnitud del vector: 5.62823721160374
+Magnitud del vector: 4.708264497237697
+Magnitud del vector: 4.5607569345588095
+Magnitud del vector: 4.641218053218083
+Magnitud del vector: 4.850664716562616
+Magnitud del vector: 5.251923391876264
+Magnitud del vector: 5.61822974815849
+Magnitud del vector: 4.874705019685971
+Magnitud del vector: 4.817151996737659
+Magnitud del vector: 5.065931539169199
+Magnitud del vector: 5.430542932339848
+Magnitud del vector: 4.226191507994564
+Magnitud del vector: 5.047502572903491
+Magnitud del vector: 4.625257329076753
+Magnitud del vector: 5.2389851213051895
 Para las imágenes imagenes1/image_0013.jpg y imagenes1/image_0014.jpg:
-Total de vectores pintados: 11
-Mediana del tamaño de los vectores: 4.150070592665854
+Total de vectores pintados: 23
+Mediana del tamaño de los vectores: 4.817151996737659
 
-Magnitud del vector 11: 3.3490984313252046
-Magnitud del vector 12: 2.7442541208126254
-Magnitud del vector 13: 3.168759247694903
-Magnitud del vector 26: 3.1160033635495967
-Magnitud del vector 41: 3.7963354697267935
-Magnitud del vector 67: 3.814591058372322
-Magnitud del vector 71: 3.4114194022673745
+Magnitud del vector: 6.465362646073402
+Magnitud del vector: 7.721963845077959
+Magnitud del vector: 6.67799567380703
+Magnitud del vector: 4.188034947146624
+Magnitud del vector: 7.040701988477459
+Magnitud del vector: 4.643398963048064
+Magnitud del vector: 4.095479880089222
+Magnitud del vector: 3.982496277486054
+Magnitud del vector: 5.1737139812696435
+Magnitud del vector: 5.380477121513721
+Magnitud del vector: 5.478185487332333
+Magnitud del vector: 7.417973127072548
+Magnitud del vector: 8.627788334884999
+Magnitud del vector: 6.130627741606275
+Magnitud del vector: 3.7395954014530446
+Magnitud del vector: 8.105462077144235
+Magnitud del vector: 8.466449701291783
+Magnitud del vector: 6.807690171473064
+Magnitud del vector: 4.519331971864261
+Magnitud del vector: 4.68809017307947
+Magnitud del vector: 3.5129746469804966
 Para las imágenes imagenes1/image_0014.jpg y imagenes1/image_0015.jpg:
-Total de vectores pintados: 7
-Mediana del tamaño de los vectores: 3.3490984313252046
+Total de vectores pintados: 21
+Mediana del tamaño de los vectores: 5.478185487332333
 
-Magnitud del vector 11: 2.253337072223563
-Magnitud del vector 16: 2.384918418613551
-Magnitud del vector 21: 2.3906999333565007
-Magnitud del vector 27: 2.08932124408233
+Magnitud del vector: 4.036770580455426
+Magnitud del vector: 3.978619466758496
+Magnitud del vector: 3.7236312668966245
+Magnitud del vector: 5.198740524699781
+Magnitud del vector: 5.213869586716923
+Magnitud del vector: 5.743389705931451
+Magnitud del vector: 4.989194722523684
 Para las imágenes imagenes1/image_0016.jpg y imagenes1/image_0017.jpg:
-Total de vectores pintados: 4
-Mediana del tamaño de los vectores: 2.319127745418557
+Total de vectores pintados: 7
+Mediana del tamaño de los vectores: 4.989194722523684
 
-Magnitud del vector 61: 2.7745943385862573
+Magnitud del vector: 4.718579729290838
 Para las imágenes imagenes1/image_0017.jpg y imagenes1/image_0018.jpg:
 Total de vectores pintados: 1
-Mediana del tamaño de los vectores: 2.7745943385862573
+Mediana del tamaño de los vectores: 4.718579729290838
+
+Magnitud del vector: 5.063249541823205
+Magnitud del vector: 4.242508334869021
+Magnitud del vector: 3.8466367518167597
+Para las imágenes imagenes1/image_0018.jpg y imagenes1/image_0019.jpg:
+Total de vectores pintados: 3
+Mediana del tamaño de los vectores: 4.242508334869021
+
+Magnitud del vector: 3.779161898169325
+Magnitud del vector: 5.926408043197876
+Magnitud del vector: 3.8417079749693492
+Para las imágenes imagenes1/image_0021.jpg y imagenes1/image_0022.jpg:
+Total de vectores pintados: 3
+Mediana del tamaño de los vectores: 3.8417079749693492
+
+Magnitud del vector: 5.77978178694985
+Magnitud del vector: 9.537454144359629
+Magnitud del vector: 5.566322641073696
+Magnitud del vector: 4.380862478629233
+Para las imágenes imagenes1/image_0023.jpg y imagenes1/image_0024.jpg:
+Total de vectores pintados: 4
+Mediana del tamaño de los vectores: 5.673052214011773
 
