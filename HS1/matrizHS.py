@@ -13,7 +13,7 @@ def horn_schunck_real_time(I1, I2, alpha, iterations):
     return u, v
 
 window = "Flujo óptico"
-video_path = "HS1/cortado.mp4"
+video_path = "HS1/video.mp4"
 output_video_path = "videos/HSF.mp4"
 
 capture = cv2.VideoCapture(video_path)
@@ -37,7 +37,7 @@ ret, old_frame = capture.read()
 scale_factor = 0.5
 threshold = 1.5
 
-""" while True:
+while True:
     ret, frame = capture.read()
 
     if not ret:
@@ -49,9 +49,9 @@ threshold = 1.5
     for y in range(5, frame.shape[0] - 3, 10):
         for x in range(5, frame.shape[1] - 3, 10):
             magnitude = np.sqrt(u[y, x] ** 2 + v[y, x] ** 2)
-            if magnitude > 4.7:
-                cv2.arrowedLine(frame, (x, y), (int(x + scale_factor * u[y, x]), int(y + scale_factor * v[y, x])), (255, 0, 0), 1, tipLength=0.5)
-            elif magnitude < 4.7:
+            if magnitude > 6:
+                cv2.arrowedLine(frame, (x, y), (int(x + scale_factor * u[y, x]), int(y + scale_factor * v[y, x])), (0, 0, 255), 1, tipLength=0.5)
+            elif magnitude < 6:
                 cv2.arrowedLine(frame, (x, y), (int(x + scale_factor * u[y, x]), int(y + scale_factor * v[y, x])), (0, 255, 0), 1, tipLength=0.5)
 
     cv2.imshow(window, frame)
@@ -61,7 +61,11 @@ threshold = 1.5
 
     key = cv2.waitKey(1) & 0xFF
     if key == 27:
-        break """
+        break
+
+capture.release()
+output_video.release()
+cv2.destroyAllWindows()
 
 """ while True:
     ret, frame = capture.read()
@@ -92,7 +96,7 @@ threshold = 1.5
     if key == 27:
         break """
 
-while True:
+""" while True:
     ret, frame = capture.read()
 
     if not ret:
@@ -119,9 +123,9 @@ while True:
 
     key = cv2.waitKey(1) & 0xFF
     if key == 27:
-        break
+        break """
 
 
-capture.release()
+""" capture.release()
 output_video.release()
-cv2.destroyAllWindows()
+cv2.destroyAllWindows() """
