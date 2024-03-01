@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 window = "Lucas-Kanade Optical Flow"
-video_path = "TerceraParte/caida.mp4"
+video_path = "TerceraParte/mujer.mp4"
 output_video_path = "videos/LK.mp4"
 
 capture = cv2.VideoCapture(video_path)
