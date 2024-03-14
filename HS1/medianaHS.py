@@ -41,7 +41,7 @@ if __name__ == "__main__":
 
         # Ajustar los parámetros para obtener una visualización más clara
         scale_factor = .8
-        threshold = 3.5
+        threshold = 1.5
 
         # Inicializar algunas variables para el análisis de flujo óptico
         total_vectors = 0

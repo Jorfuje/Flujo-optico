@@ -13,7 +13,7 @@ def horn_schunck_real_time(I1, I2, alpha, iterations):
     return u, v
 
 if __name__ == "__main__":
-    video_path = "HS1/video.mp4"
+    video_path = "HS1/cortado.mp4"
     capture = cv2.VideoCapture(video_path)
 
     width = int(capture.get(cv2.CAP_PROP_FRAME_WIDTH))
@@ -42,6 +42,7 @@ if __name__ == "__main__":
         for y in range(0, frame.shape[0], 10):
             for x in range(0, frame.shape[1], 10):
                 magnitude = np.sqrt(u[y, x] ** 2 + v[y, x] ** 2)
+                # print(magnitude)
                 if magnitude > 8:
                     color = (0, 0, 255) 
                     cv2.rectangle(frame, (x, y), (x + 10, y + 10), color, -1)  # Pintar la celda de rojo
