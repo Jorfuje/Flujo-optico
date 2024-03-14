@@ -2,12 +2,12 @@ import cv2
 import os
 
 # Ruta al archivo de video
-video_path = "Herramientas/cortado.mp4"
+video_path = "Herramientas/caida.mp4"
 #video_path = "videos/HSF.mp4"
 
 # Carpeta donde se guardarán las imágenes
-output_folder = "imagenes1"
-#output_folder = "imagenes2"
+# output_folder = "imagenes1" #ascensor
+output_folder = "imagenes2" #caida
 #output_folder = "imagenes3"
 
 # Crear la carpeta si no existe

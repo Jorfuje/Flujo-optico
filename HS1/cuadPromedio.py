@@ -63,7 +63,7 @@ if __name__ == "__main__":
 
                 if magnitude >= promedio_celda:
                     color = (0, 0, 255)  # Rojo
-                    cv2.rectangle(frame, (x, y), (x + 10, y + 10), color, -1)
+                    # cv2.rectangle(frame, (x, y), (x + 10, y + 10), color, -1)
                 else:
                     color = (0, 255, 0)  # Verde
 

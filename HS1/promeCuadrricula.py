@@ -17,7 +17,8 @@ def horn_schunck_real_time(I1, I2, alpha, iterations):
 
 if __name__ == "__main__":
     # Obtener la lista de archivos en la carpeta de imágenes
-    imagenes_dir = "imagenes1"
+    imagenes_dir = "imagenes1" #ascensor
+    # imagenes_dir = "imagenes2"  #caida
     imagenes_files = sorted(os.listdir(imagenes_dir))
     imagenes_paths = [os.path.join(imagenes_dir, filename) for filename in imagenes_files]
 
