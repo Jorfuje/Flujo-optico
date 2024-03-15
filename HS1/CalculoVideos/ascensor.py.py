@@ -13,17 +13,21 @@ def horn_schunck_real_time(I1, I2, alpha, iterations):
 
     return u, v
 
-def sumar_cinco_a_promedios(promedio_file):
+def sumar_cinco_a_promedios(promedio_file, grid_size):
     with open(promedio_file, 'r') as file:
         lines = file.readlines()
     
     new_promedios = []
     for line in lines:
         promedio = float(line.split(':')[-1].strip())
-        new_promedio = promedio + 5
-        print(new_promedio)
+        new_promedio = promedio + 5.97
         new_promedios.append(new_promedio)
     
+    # Ajustar el tamaño de new_promedios si es necesario
+    expected_length = grid_size ** 2
+    if len(new_promedios) < expected_length:
+        new_promedios.extend([0] * (expected_length - len(new_promedios)))
+
     return new_promedios
 
 if __name__ == "__main__":
@@ -46,7 +50,8 @@ if __name__ == "__main__":
     threshold = 4
 
     promedio_file = "promedioCeldas.txt"
-    new_promedios = sumar_cinco_a_promedios(promedio_file)
+    grid_size = 20
+    new_promedios = sumar_cinco_a_promedios(promedio_file, grid_size)
 
     while True:
         ret, frame = capture.read()
@@ -63,13 +68,12 @@ if __name__ == "__main__":
 
                 if magnitude >= promedio_celda:
                     color = (0, 0, 255)  # Rojo
-                    # cv2.rectangle(frame, (x, y), (x + 10, y + 10), color, -1)
+                    cv2.rectangle(frame, (x, y), (x + 10, y + 10), color, -1)  # Rellenar celda en rojo
                 else:
                     color = (0, 255, 0)  # Verde
 
                 cv2.arrowedLine(frame, (x, y), (int(x + scale_factor * u[y, x]), int(y + scale_factor * v[y, x])), color, 1, tipLength=0.5)
                 cv2.rectangle(frame, (x, y), (x + 10, y + 10), (0, 255, 255), 1)  # Dibujar cuadrícula
-
 
         cv2.imshow("Flujo óptico", frame)
         output_video.write(frame)

@@ -17,15 +17,15 @@ def horn_schunck_real_time(I1, I2, alpha, iterations):
 
 if __name__ == "__main__":
     # Obtener la lista de archivos en la carpeta de imágenes
-    imagenes_dir = "imagenes2"
+    imagenes_dir = "imagenes1"
     imagenes_files = sorted(os.listdir(imagenes_dir))
     imagenes_paths = [os.path.join(imagenes_dir, filename) for filename in imagenes_files]
 
     # Crear o abrir un archivo de texto para guardar la información
     output_file = open("informacion_flujo_optico.txt", "w")
 
-    # Inicializar listas para almacenar las magnitudes de cada par de imágenes
-    magnitudes_por_par = []
+    # Inicializar listas para almacenar los promedios de magnitud por celda
+    promedios_magnitud_por_celda = []
 
     # Iterar sobre cada par de imágenes consecutivas
     for i in range(len(imagenes_paths) - 1):
@@ -40,46 +40,45 @@ if __name__ == "__main__":
         u, v = horn_schunck_real_time(image1, image2, 0.01, 1)  # Cambiar alpha a 0.01 para reducir el ruido
 
         # Ajustar los parámetros para obtener una visualización más clara
-        scale_factor = .8
         threshold = 1.5
 
         # Inicializar algunas variables para el análisis de flujo óptico
-        total_vectors = 0
-        magnitudes = []
+        magnitudes_por_celda = []
 
-        # Iterar sobre cada píxel del fotograma
-        for y in range(0, image1.shape[0], 10):
-            for x in range(0, image1.shape[1], 10):
-                # Calcular la magnitud del vector de flujo óptico en el píxel actual
-                magnitude = np.sqrt(u[y, x] ** 2 + v[y, x] ** 2)
+        # Dividir la cuadrícula en una matriz de 20x20
+        grid_size = 20
+        grid_width = u.shape[1] // grid_size
+        grid_height = u.shape[0] // grid_size
 
-                # Si la magnitud supera el umbral, contar el vector y almacenar su magnitud
-                if magnitude > threshold:
-                    total_vectors += 1
-                    magnitudes.append(magnitude)
+        # Iterar sobre cada celda de la cuadrícula
+        for i in range(grid_size):
+            for j in range(grid_size):
+                # Obtener la región de interés (celda) del flujo óptico
+                grid_u = u[i * grid_height: (i + 1) * grid_height, j * grid_width: (j + 1) * grid_width]
+                grid_v = v[i * grid_height: (i + 1) * grid_height, j * grid_width: (j + 1) * grid_width]
 
-                    # Guardar la magnitud del vector en el archivo de texto
-                    output_file.write(f"Magnitud del vector: {magnitude}\n")
+                # Calcular la magnitud del vector de flujo óptico en cada celda
+                magnitude = np.sqrt(np.sum(grid_u ** 2) + np.sum(grid_v ** 2))
 
-        # Calcular la mediana de las magnitudes de los vectores significativos
-        if magnitudes:
-            median_magnitude = np.median(magnitudes)
-            magnitudes_por_par.append(median_magnitude)
+                # Calcular el promedio de la magnitud de los vectores en la celda actual
+                promedio_magnitud = np.mean(magnitude)
+                magnitudes_por_celda.append(promedio_magnitud)
 
-        # Si hay vectores pintados, escribir la información en el archivo de texto
-        if total_vectors > 0:
-            output_file.write(f"Para las imágenes {image1_path} y {image2_path}:\n")
-            output_file.write(f"Total de vectores pintados: {total_vectors}\n")
-            output_file.write(f"Mediana del tamaño de los vectores: {median_magnitude}\n\n")
+                # Escribir la información en el archivo de texto
+                output_file.write(f"Para la celda ({i}, {j}) de las imágenes {image1_path} y {image2_path}:\n")
+                output_file.write(f"Promedio de magnitud: {promedio_magnitud}\n\n")
+
+        # Agregar los promedios de magnitud por celda a la lista
+        promedios_magnitud_por_celda.append(magnitudes_por_celda)
+
+    # Calcular el promedio final por celda
+    promedios_finales_celda = np.mean(np.array(promedios_magnitud_por_celda), axis=0)
+
+    # Guardar los promedios finales por celda en un archivo
+    with open("promedioCeldas.txt", "w") as output_celdas_file:
+        for i in range(grid_size):
+            for j in range(grid_size):
+                output_celdas_file.write(f"Promedio final de celda ({i}, {j}): {promedios_finales_celda[i * grid_size + j]}\n")
 
     # Cerrar el archivo de texto
     output_file.close()
-
-    # Calcular la mediana final de las medianas de cada par de imágenes
-    if magnitudes_por_par:
-        mediana_final_de_medianas = np.median(magnitudes_por_par)
-    else:
-        mediana_final_de_medianas = 0
-
-    # Imprimir resultados
-    print("Mediana final de medianas:", mediana_final_de_medianas)

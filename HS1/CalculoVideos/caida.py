@@ -20,8 +20,8 @@ def sumar_cinco_a_promedios(promedio_file):
     new_promedios = []
     for line in lines:
         promedio = float(line.split(':')[-1].strip())
-        new_promedio = promedio + 11
-        print(new_promedio)
+        new_promedio = promedio + 50
+        # print(new_promedio)
         new_promedios.append(new_promedio)
     
     return new_promedios
@@ -42,7 +42,7 @@ if __name__ == "__main__":
 
     ret, old_frame = capture.read()
 
-    scale_factor = 0.5
+    scale_factor = 2.0
     threshold = 4
     promedio_file = "promedioCeldas.txt"
     new_promedios = sumar_cinco_a_promedios(promedio_file)
@@ -62,10 +62,13 @@ if __name__ == "__main__":
         for y in range(0, height, grid_height):
             for x in range(0, width, grid_width):
                 if y + grid_height <= height and x + grid_width <= width:
-                    magnitude = np.sqrt(np.sum(u[y:y+grid_height, x:x+grid_width])**2 + np.sum(v[y:y+grid_height, x:x+grid_width])**2)
+                    magnitude = np.sqrt(np.sum(u[y:y+grid_height, x:x+grid_width]**2) + np.sum(v[y:y+grid_height, x:x+grid_width]**2))
                     promedio_celda = new_promedios[(y // grid_height) * grid_size + (x // grid_width)]
 
-                    if magnitude >= promedio_celda:
+                    print(magnitude, promedio_celda)
+                    if (y<=3 and magnitude >=11):
+                        color = (0, 0, 255)  # Rojo
+                    elif (y>3 and magnitude >=60):
                         color = (0, 0, 255)  # Rojo
                     else:
                         color = (0, 255, 0)  # Verde

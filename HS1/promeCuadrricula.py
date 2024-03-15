@@ -17,15 +17,14 @@ def horn_schunck_real_time(I1, I2, alpha, iterations):
 
 if __name__ == "__main__":
     # Obtener la lista de archivos en la carpeta de imágenes
-    imagenes_dir = "imagenes1" #ascensor
-    # imagenes_dir = "imagenes2"  #caida
+    imagenes_dir = "imagenes1"
     imagenes_files = sorted(os.listdir(imagenes_dir))
     imagenes_paths = [os.path.join(imagenes_dir, filename) for filename in imagenes_files]
 
     # Crear o abrir un archivo de texto para guardar la información
     output_file = open("informacion_flujo_optico.txt", "w")
 
-    # Inicializar lista para almacenar los promedios de magnitud por celda
+    # Inicializar listas para almacenar los promedios de magnitud por celda
     promedios_magnitud_por_celda = []
 
     # Iterar sobre cada par de imágenes consecutivas
@@ -59,7 +58,7 @@ if __name__ == "__main__":
                 grid_v = v[i * grid_height: (i + 1) * grid_height, j * grid_width: (j + 1) * grid_width]
 
                 # Calcular la magnitud del vector de flujo óptico en cada celda
-                magnitude = np.sqrt(grid_u ** 2 + grid_v ** 2)
+                magnitude = np.sqrt(np.sum(grid_u ** 2) + np.sum(grid_v ** 2))
 
                 # Calcular el promedio de la magnitud de los vectores en la celda actual
                 promedio_magnitud = np.mean(magnitude)
