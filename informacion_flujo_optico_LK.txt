@@ -1,0 +1,132 @@
+Para las imágenes imagenes1/image_0000.jpg y imagenes1/image_0001.jpg:
+Magnitud media del flujo óptico: 0.0021814536303281784
+
+Para las imágenes imagenes1/image_0001.jpg y imagenes1/image_0002.jpg:
+Magnitud media del flujo óptico: 0.0009127188823185861
+
+Para las imágenes imagenes1/image_0002.jpg y imagenes1/image_0003.jpg:
+Magnitud media del flujo óptico: 0.02600446157157421
+
+Para las imágenes imagenes1/image_0003.jpg y imagenes1/image_0004.jpg:
+Magnitud media del flujo óptico: 0.004881073720753193
+
+Para las imágenes imagenes1/image_0004.jpg y imagenes1/image_0005.jpg:
+Magnitud media del flujo óptico: 0.012128975242376328
+
+Para las imágenes imagenes1/image_0005.jpg y imagenes1/image_0006.jpg:
+Magnitud media del flujo óptico: 0.0012065565679222345
+
+Para las imágenes imagenes1/image_0006.jpg y imagenes1/image_0007.jpg:
+Magnitud media del flujo óptico: 0.00962023250758648
+
+Para las imágenes imagenes1/image_0007.jpg y imagenes1/image_0008.jpg:
+Magnitud media del flujo óptico: 0.02735178731381893
+
+Para las imágenes imagenes1/image_0008.jpg y imagenes1/image_0009.jpg:
+Magnitud media del flujo óptico: 0.003064625198021531
+
+Para las imágenes imagenes1/image_0009.jpg y imagenes1/image_0010.jpg:
+Magnitud media del flujo óptico: 0.03814681991934776
+
+Para las imágenes imagenes1/image_0010.jpg y imagenes1/image_0011.jpg:
+Magnitud media del flujo óptico: 0.20322482287883759
+
+Para las imágenes imagenes1/image_0011.jpg y imagenes1/image_0012.jpg:
+Magnitud media del flujo óptico: 0.5231137871742249
+
+Para las imágenes imagenes1/image_0012.jpg y imagenes1/image_0013.jpg:
+Magnitud media del flujo óptico: 0.003936725668609142
+
+Para las imágenes imagenes1/image_0013.jpg y imagenes1/image_0014.jpg:
+Magnitud media del flujo óptico: 0.13799849152565002
+
+Para las imágenes imagenes1/image_0014.jpg y imagenes1/image_0015.jpg:
+Magnitud media del flujo óptico: 0.0740986317396164
+
+Para las imágenes imagenes1/image_0015.jpg y imagenes1/image_0016.jpg:
+Magnitud media del flujo óptico: 0.003579651238396764
+
+Para las imágenes imagenes1/image_0016.jpg y imagenes1/image_0017.jpg:
+Magnitud media del flujo óptico: 0.4737324118614197
+
+Para las imágenes imagenes1/image_0017.jpg y imagenes1/image_0018.jpg:
+Magnitud media del flujo óptico: 0.42208269238471985
+
+Para las imágenes imagenes1/image_0018.jpg y imagenes1/image_0019.jpg:
+Magnitud media del flujo óptico: 0.2506662607192993
+
+Para las imágenes imagenes1/image_0019.jpg y imagenes1/image_0020.jpg:
+Magnitud media del flujo óptico: 0.0011724949581548572
+
+Para las imágenes imagenes1/image_0020.jpg y imagenes1/image_0021.jpg:
+Magnitud media del flujo óptico: 0.1503048539161682
+
+Para las imágenes imagenes1/image_0021.jpg y imagenes1/image_0022.jpg:
+Magnitud media del flujo óptico: 0.508581817150116
+
+Para las imágenes imagenes1/image_0022.jpg y imagenes1/image_0023.jpg:
+Magnitud media del flujo óptico: 0.004084497224539518
+
+Para las imágenes imagenes1/image_0023.jpg y imagenes1/image_0024.jpg:
+Magnitud media del flujo óptico: 0.25879722833633423
+
+Para las imágenes imagenes1/image_0024.jpg y imagenes1/image_0025.jpg:
+Magnitud media del flujo óptico: 0.33203431963920593
+
+Para las imágenes imagenes1/image_0025.jpg y imagenes1/image_0026.jpg:
+Magnitud media del flujo óptico: 0.03178940713405609
+
+Para las imágenes imagenes1/image_0026.jpg y imagenes1/image_0027.jpg:
+Magnitud media del flujo óptico: 0.007016439456492662
+
+Para las imágenes imagenes1/image_0027.jpg y imagenes1/image_0028.jpg:
+Magnitud media del flujo óptico: 0.03300819173455238
+
+Para las imágenes imagenes1/image_0028.jpg y imagenes1/image_0029.jpg:
+Magnitud media del flujo óptico: 0.11206669360399246
+
+Para las imágenes imagenes1/image_0029.jpg y imagenes1/image_0030.jpg:
+Magnitud media del flujo óptico: 0.3110937178134918
+
+Para las imágenes imagenes1/image_0030.jpg y imagenes1/image_0031.jpg:
+Magnitud media del flujo óptico: 0.0012330722529441118
+
+Para las imágenes imagenes1/image_0031.jpg y imagenes1/image_0032.jpg:
+Magnitud media del flujo óptico: 0.41630178689956665
+
+Para las imágenes imagenes1/image_0032.jpg y imagenes1/image_0033.jpg:
+Magnitud media del flujo óptico: 0.6196843385696411
+
+Para las imágenes imagenes1/image_0033.jpg y imagenes1/image_0034.jpg:
+Magnitud media del flujo óptico: 0.0017138575203716755
+
+Para las imágenes imagenes1/image_0034.jpg y imagenes1/image_0035.jpg:
+Magnitud media del flujo óptico: 0.7591521143913269
+
+Para las imágenes imagenes1/image_0035.jpg y imagenes1/image_0036.jpg:
+Magnitud media del flujo óptico: 1.042090654373169
+
+Para las imágenes imagenes1/image_0036.jpg y imagenes1/image_0037.jpg:
+Magnitud media del flujo óptico: 0.221961110830307
+
+Para las imágenes imagenes1/image_0037.jpg y imagenes1/image_0038.jpg:
+Magnitud media del flujo óptico: 0.0062515889294445515
+
+Para las imágenes imagenes1/image_0038.jpg y imagenes1/image_0039.jpg:
+Magnitud media del flujo óptico: 0.01160410139709711
+
+Para las imágenes imagenes1/image_0039.jpg y imagenes1/image_0040.jpg:
+Magnitud media del flujo óptico: 0.054111093282699585
+
+Para las imágenes imagenes1/image_0040.jpg y imagenes1/image_0041.jpg:
+Magnitud media del flujo óptico: 0.005626865196973085
+
+Para las imágenes imagenes1/image_0041.jpg y imagenes1/image_0042.jpg:
+Magnitud media del flujo óptico: 0.021871870383620262
+
+Para las imágenes imagenes1/image_0042.jpg y imagenes1/image_0043.jpg:
+Magnitud media del flujo óptico: 0.009408628568053246
+
+Para las imágenes imagenes1/image_0043.jpg y imagenes1/image_0044.jpg:
+Magnitud media del flujo óptico: 0.01065580453723669
+
