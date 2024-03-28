@@ -1,4 +1,3 @@
-Promedio final por celda:
 Promedio final de celda (0, 0): 0.0
 Promedio final de celda (1, 0): 0.0
 Promedio final de celda (2, 0): 0.0
