@@ -4,8 +4,8 @@ import numpy as np
 window = "Lucas-Kanade Optical Flow"
 video_path = "ParteCuatro/LK/output.mp4"
 output_video_path = "videos/LK.mp4"
-output_file_path = "promedio_por_celda_por_frame.txt"
-final_output_file_path = "promedio_final_por_celda.txt"
+output_file_path = "promedio_por_celda_por_frameLK.txt"
+final_output_file_path = "promedio_final_por_celdaLK.txt"
 
 capture = cv2.VideoCapture(video_path)
 
