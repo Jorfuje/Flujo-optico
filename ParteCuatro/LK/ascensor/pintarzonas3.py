@@ -2,9 +2,8 @@ import cv2
 import numpy as np
 
 window = "Lucas-Kanade Optical Flow"
-video_path = "ParteCuatro/LK/output.mp4"
+video_path = "ParteCuatro/LK/ascensor/output.mp4"
 output_video_path = "videos/LK.mp4"
-promedios_file = "promedio_final_por_celdaLK.txt"
 
 capture = cv2.VideoCapture(video_path)
 
@@ -26,16 +25,6 @@ output_video = cv2.VideoWriter(output_video_path, fourcc, fps, (width, height))
 
 # Parámetros para el algoritmo de Lucas-Kanade
 lk_params = dict(winSize=(50, 50), maxLevel=4, criteria=(cv2.TERM_CRITERIA_EPS | cv2.TERM_CRITERIA_COUNT, 10, 0.001))
-
-# Inicializar la lista de promedios
-promedios = []
-
-# Leer los promedios de las magnitudes por celda desde el archivo
-with open(promedios_file, 'r') as file:
-    for line in file:
-        if line.startswith("Promedio final de celda"):
-            promedio = float(line.split(":")[-1])
-            promedios.append(promedio + 2.5)
 
 # Inicializar algunas variables
 old_gray = None
@@ -72,43 +61,35 @@ while True:
             # Coordenadas de los puntos de inicio de los vectores azules
             blue_start_points = []
 
-            # Dibujar los vectores de movimiento y detectar celdas con magnitud mayor al promedio
+            # Dibujar los vectores de movimiento y detectar celdas con magnitud mayor a 1.5
             for i, (new, old) in enumerate(zip(good_new, good_old)):
                 a, b = new.ravel()
                 c, d = old.ravel()
                 vector = (a - c, b - d)
 
-                # Obtener el índice de la celda actual
-                cell_x = int(c // cell_width)
-                cell_y = int(d // cell_height)
-                
-                # Obtener el promedio de magnitud de la celda actual
-                promedio_celda = promedios[cell_y * 20 + cell_x]
-
                 # Filtrar vectores con magnitud significativa
                 magnitude = np.sqrt(vector[0] ** 2 + vector[1] ** 2)
-                if 3 <= cell_x < 15 and 5 <= cell_y < 13:
-                    if magnitude > 0.5:  # Mantenemos el umbral en 0.5
-                        if magnitude > promedio_celda: # Comparar con el promedio de la celda
-                            color = (255, 0, 0)  # Pintar de rojo si la magnitud es mayor al promedio
-                            blue_vectors_count += 1  # Incrementar el contador de vectores azules
-                        else:
-                            color = (0, 255, 0)  # Pintar de verde si la magnitud es menor o igual al promedio
-                        cv2.arrowedLine(frame, (int(c), int(d)), (int(c + 5 * vector[0]), int(d + 5 * vector[1])), color, 2)
-
-                        # Registrar los puntos de inicio de los vectores azules
-                        if color == (255, 0, 0):
-                            blue_start_points.append((int(c), int(d)))
+                if magnitude > 0.5:  # Mantenemos el umbral en 0.5
+                    if magnitude > 3.5: # caida
+                    #if magnitude > 2: # fractura
+                        color = (255, 0, 0)  # Pintar de azul si la magnitud es mayor a 1.5
+                        blue_vectors_count += 1  # Incrementar el contador de vectores azules
                     else:
-                        # Remover los puntos de inicio de los vectores que ya no están presentes
-                        blue_start_points = [(x, y) for x, y in blue_start_points if any((abs(x - px) > 5 or abs(y - py) > 5) for px, py in good_new)]
+                        color = (0, 255, 0)  # Pintar de verde si la magnitud es menor o igual a 1.5
+                    cv2.arrowedLine(frame, (int(c), int(d)), (int(c + 5 * vector[0]), int(d + 5 * vector[1])), color, 2)
+
+                    # Registrar los puntos de inicio de los vectores azules
+                    if color == (255, 0, 0):
+                        blue_start_points.append((int(c), int(d)))
+                else:
+                    # Remover los puntos de inicio de los vectores que ya no están presentes
+                    blue_start_points = [(x, y) for x, y in blue_start_points if any((abs(x - px) > 5 or abs(y - py) > 5) for px, py in good_new)]
 
             # Pintar la celda donde comienza un vector azul de color rojo
             for x, y in blue_start_points:
                 cell_x = x // cell_width
                 cell_y = y // cell_height
-                if 3 <= cell_x < 15 and 5 <= cell_y < 13:
-                    cv2.rectangle(frame, (cell_x * cell_width, cell_y * cell_height), ((cell_x + 1) * cell_width, (cell_y + 1) * cell_height), (0, 0, 255), -1)
+                cv2.rectangle(frame, (cell_x * cell_width, cell_y * cell_height), ((cell_x + 1) * cell_width, (cell_y + 1) * cell_height), (0, 0, 255), -1)
 
             # Actualizar los puntos anteriores
             p0 = good_new.reshape(-1, 1, 2)

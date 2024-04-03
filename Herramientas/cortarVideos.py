@@ -2,13 +2,15 @@ import cv2
 import os
 
 # Ruta al archivo de video
-video_path = "Herramientas/output.mp4"
+# video_path = "Herramientas/output.mp4" #ascensor
+video_path = "Herramientas/nino.mp4" #niño
+# video_path = "Herramientas/viejo.mp4" #viejo
 #video_path = "videos/HSF.mp4"
 
 # Carpeta donde se guardarán las imágenes
-output_folder = "imagenes1" #ascensor
-# output_folder = "imagenes2" #caida
-#output_folder = "imagenes3"
+# output_folder = "imagenes1" #ascensor
+output_folder = "nino" #niño
+# output_folder = "viejo" #viejo
 
 # Crear la carpeta si no existe
 os.makedirs(output_folder, exist_ok=True)
