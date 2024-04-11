@@ -59,6 +59,7 @@ if __name__ == "__main__":
     ret, old_frame = capture.read()
 
     scale_factor = 0.5
+    threshold = 4
 
     promedio_file = "promedioCeldas.txt"
     grid_size = 20
@@ -66,6 +67,9 @@ if __name__ == "__main__":
 
     inicio_fila, fin_fila, inicio_columna, fin_columna = obtener_indices_region_interes()
 
+    cell_width = width // 20
+    cell_height = height // 20
+    
     while True:
         ret, frame = capture.read()
 
@@ -74,10 +78,10 @@ if __name__ == "__main__":
 
         u, v = horn_schunck_real_time(old_frame, frame, 0.01, 1)
 
-        for y in range(0, frame.shape[0], 10):
-            for x in range(0, frame.shape[1], 10):
+        for y in range(0, frame.shape[0], cell_height):
+            for x in range(0, frame.shape[1], cell_width):
                 # Verificar si la celda actual está dentro de la región de interés
-                if inicio_fila <= y < fin_fila and inicio_columna <= x < fin_columna:
+                """ if inicio_fila <= y < fin_fila and inicio_columna <= x < fin_columna:
                     magnitude = np.sqrt(u[y, x] ** 2 + v[y, x] ** 2)
                     i = y // 10  # Índice de fila de la celda en los nuevos promedios
                     j = x // 10  # Índice de columna de la celda en los nuevos promedios
@@ -98,6 +102,40 @@ if __name__ == "__main__":
                 else:
                     # Si la celda está fuera de la región de interés, solo dibujar la cuadrícula
                     cv2.rectangle(frame, (x, y), (x + 10, y + 10), (0, 255, 255), 1)
+ """
+                # if (y // cell_height) * (frame.shape[1] // cell_width) + (x // cell_width) < grid_size:
+                # promedio_celda = new_promedios[(y // cell_height) * (frame.shape[1] // cell_width) + (x // cell_width)]  # Promedio de la celda
+                if inicio_fila <= y < fin_fila and inicio_columna <= x < fin_columna:
+                    magnitude = np.sqrt(u[y, x] ** 2 + v[y, x] ** 2)
+                    i = y // 10  # Índice de fila de la celda en los nuevos promedios
+                    j = x // 10  # Índice de columna de la celda en los nuevos promedios
+                    promedio_celda = new_promedios[i * (frame.shape[1] // 10) + j]  # Promedio de la celda
+                    
+                    print("Coordenadas:", i, j)
+                    print("Magnitude:", magnitude)
+                    print("Promedio celda:", promedio_celda)
+                    
+                    
+                    if magnitude >= promedio_celda:
+                        color = (0, 0, 255)  # Rojo
+                        cv2.rectangle(frame, (x, y), (x + 10, y + 10), color, -1)  # Rellenar celda en rojo
+                    else:
+                        color = (0, 255, 0)  # Verde
+                        
+                    cv2.arrowedLine(frame, (x, y), (int(x + scale_factor * u[y, x]), int(y + scale_factor * v[y, x])), color, 1, tipLength=0.5)
+                    
+                    
+                    
+                # magnitude = np.sqrt(u[y, x] ** 2 + v[y, x] ** 2)
+                # print(y, x)
+                # if magnitude >= 5.97:
+                #     color = (0, 0, 255)  # Rojo
+                #     cv2.rectangle(frame, (x, y), (x + cell_width, y + cell_height), color, -1)  # Rellenar celda en rojo
+                # else:
+                #     color = (0, 255, 0)  # Verde
+
+                # cv2.arrowedLine(frame, (x, y), (int(x + scale_factor * u[y, x]), int(y + scale_factor * v[y, x])), color, 1, tipLength=0.5)
+                cv2.rectangle(frame, (x, y), (x + cell_width, y + cell_height), (0, 255, 255), 1)  # Dibujar cuadrícula
 
         cv2.imshow("Flujo óptico", frame)
         output_video.write(frame)

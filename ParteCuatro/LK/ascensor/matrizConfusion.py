@@ -27,7 +27,7 @@ def calculate_confusion_matrix(true_matrix, predicted_matrix):
     return confusion_matrix
 
 # Carpeta que contiene los archivos de matrices verdaderas
-true_matrices_folder = "imagenes_iteracionLK"
+true_matrices_folder = "matrices_iteracion"
 # Carpeta que contiene los archivos de matrices predichas
 predicted_matrices_folder = "matrices_predichas"
 
@@ -41,7 +41,7 @@ if len(true_matrices_files) != len(predicted_matrices_files):
     exit()
 
 # Crear el directorio para almacenar las matrices de confusión si no existe
-confusion_matrices_folder = "confusion_matrices"
+confusion_matrices_folder = "confusion_matricesLKElevador"
 if not os.path.exists(confusion_matrices_folder):
     os.makedirs(confusion_matrices_folder)
 

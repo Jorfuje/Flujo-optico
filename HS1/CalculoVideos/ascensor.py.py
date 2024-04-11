@@ -53,6 +53,9 @@ if __name__ == "__main__":
     grid_size = 20
     new_promedios = sumar_cinco_a_promedios(promedio_file, grid_size)
 
+    cell_width = width // 20
+    cell_height = height // 20
+
     while True:
         ret, frame = capture.read()
 
@@ -61,19 +64,19 @@ if __name__ == "__main__":
 
         u, v = horn_schunck_real_time(old_frame, frame, 0.01, 1)
 
-        for y in range(0, frame.shape[0], 10):
-            for x in range(0, frame.shape[1], 10):
+        for y in range(0, frame.shape[0], cell_height):
+            for x in range(0, frame.shape[1], cell_width):
                 magnitude = np.sqrt(u[y, x] ** 2 + v[y, x] ** 2)
-                promedio_celda = new_promedios[(y // 10) * (frame.shape[1] // 10) + (x // 10)]  # Promedio de la celda
+                # promedio_celda = new_promedios[(y // cell_height) * (frame.shape[1] // cell_width) + (x // cell_width)]  # Promedio de la celda
 
-                if magnitude >= promedio_celda:
+                if magnitude >= 5.97:
                     color = (0, 0, 255)  # Rojo
-                    cv2.rectangle(frame, (x, y), (x + 10, y + 10), color, -1)  # Rellenar celda en rojo
+                    cv2.rectangle(frame, (x, y), (x + cell_width, y + cell_height), color, -1)  # Rellenar celda en rojo
                 else:
                     color = (0, 255, 0)  # Verde
 
                 cv2.arrowedLine(frame, (x, y), (int(x + scale_factor * u[y, x]), int(y + scale_factor * v[y, x])), color, 1, tipLength=0.5)
-                cv2.rectangle(frame, (x, y), (x + 10, y + 10), (0, 255, 255), 1)  # Dibujar cuadrícula
+                cv2.rectangle(frame, (x, y), (x + cell_width, y + cell_height), (0, 255, 255), 1)  # Dibujar cuadrícula
 
         cv2.imshow("Flujo óptico", frame)
         output_video.write(frame)

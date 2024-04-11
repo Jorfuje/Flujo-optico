@@ -17,6 +17,7 @@ capture = cv2.VideoCapture(video_path)
 # Obtener la duración total del video original
 fps = capture.get(cv2.CAP_PROP_FPS)
 total_frames = int(capture.get(cv2.CAP_PROP_FRAME_COUNT))
+print(total_frames, 'Total frame')
 
 # Obtener el tamaño del video de entrada
 width = int(capture.get(cv2.CAP_PROP_FRAME_WIDTH))
