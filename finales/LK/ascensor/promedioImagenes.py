@@ -1,21 +1,18 @@
 import cv2
 import numpy as np
+import os
 
 window = "Lucas-Kanade Optical Flow"
-video_path = "ParteCuatro/LK/ascensor/output.mp4"
+input_image_folder = "frames/elevador"
 output_video_path = "videos/LK.mp4"
-output_file_path = "promedio_por_celda_por_frameLK.txt"
-final_output_file_path = "promedio_final_por_celdaLKv.txt"
+final_output_file_path = "promedios/elevador/LK.txt"
 
-capture = cv2.VideoCapture(video_path)
+# Obtener la lista de nombres de archivos de imágenes en la carpeta de entrada
+image_files = sorted(os.listdir(input_image_folder))
 
-# Obtener la duración total del video original
-fps = capture.get(cv2.CAP_PROP_FPS)
-total_frames = int(capture.get(cv2.CAP_PROP_FRAME_COUNT))
-
-# Obtener el tamaño del video de entrada
-width = int(capture.get(cv2.CAP_PROP_FRAME_WIDTH))
-height = int(capture.get(cv2.CAP_PROP_FRAME_HEIGHT))
+# Leer la primera imagen para obtener su tamaño
+first_image = cv2.imread(os.path.join(input_image_folder, image_files[0]))
+height, width, _ = first_image.shape
 
 # Calcular el tamaño de cada cuadro en la matriz 20x20
 cell_width = width // 20
@@ -23,7 +20,7 @@ cell_height = height // 20
 
 # Crear un objeto VideoWriter para el video resultante
 fourcc = cv2.VideoWriter_fourcc(*'mp4v') if cv2.VideoWriter_fourcc(*'mp4v') != -1 else cv2.VideoWriter_fourcc(*'avc1')
-output_video = cv2.VideoWriter(output_video_path, fourcc, fps, (width, height))
+output_video = cv2.VideoWriter(output_video_path, fourcc, len(image_files), (width, height))
 
 # Parámetros para el algoritmo de Lucas-Kanade
 lk_params = dict(winSize=(50, 50), maxLevel=4, criteria=(cv2.TERM_CRITERIA_EPS | cv2.TERM_CRITERIA_COUNT, 10, 0.001))
@@ -39,19 +36,16 @@ cell_count = np.zeros((20, 20), dtype=int)  # Matriz para almacenar el conteo de
 # Lista para almacenar los promedios por celda por cada par de frames
 cell_averages_per_frame = []
 
-while True:
-    # Capturar el cuadro actual del video
-    ret, frame = capture.read()
-
-    # Si no hay datos, salir del bucle
-    if not ret:
-        break
+# Iterar sobre los nombres de archivos de imágenes
+for image_file in image_files:
+    # Leer la imagen actual
+    frame = cv2.imread(os.path.join(input_image_folder, image_file))
 
     # Convertir a escala de grises
     gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
 
     # Si es el primer cuadro o después de cierto tiempo, detectar esquinas nuevamente
-    if old_gray is None or cv2.getTickCount() % 50 == 0:
+    if old_gray is None or iteration_count % 50 == 0:
         p0 = cv2.goodFeaturesToTrack(gray, mask=None, maxCorners=200, qualityLevel=0.0008, minDistance=10, blockSize=5, k=0.004)
         old_gray = gray.copy()
 
@@ -116,6 +110,8 @@ while True:
     for j in range(0, height, cell_height):
         cv2.line(frame, (0, j), (width, j), (0, 255, 255), 1)
         
+    # Escribir el cuadro en el video de salida
+    output_video.write(frame)
 
     # Mostrar la imagen con la cuadrícula
     cv2.imshow(window, frame)
@@ -130,7 +126,7 @@ while True:
     iteration_count += 1
 
     # Esperar el tiempo necesario para mantener la velocidad del video original
-    key = cv2.waitKey(int(1000 / fps)) & 0xFF
+    key = cv2.waitKey(1) & 0xFF
 
     # Si la tecla es ESC, salir
     if key == 27:
@@ -138,18 +134,6 @@ while True:
 
     # Calcular el promedio por celda de la magnitud de los vectores
     average_magnitude_per_cell = cell_magnitude_sum / np.maximum(cell_count, 1)
-
-    # Guardar el promedio por celda de la magnitud de los vectores en el archivo
-    with open(output_file_path, 'a') as file:
-        file.write("Para cada par de frames:\n")
-        for i in range(len(cell_averages_per_frame) - 1):
-            file.write("Para la celda (x, y) de las imágenes image_{:04d}.jpg y image_{:04d}.jpg:\n".format(i, i + 1))
-            for y in range(20):
-                for x in range(20):
-                    file.write("Para la celda ({}, {}) de las imágenes image_{:04d}.jpg y image_{:04d}.jpg:\n".format(x, y, i, i + 1))
-                    file.write("Promedio de magnitud: {}\n".format(cell_averages_per_frame[i][y, x]))
-            file.write("\n")
-
 
     # Añadir los promedios por celda a la lista
     cell_averages_per_frame.append(average_magnitude_per_cell)
@@ -165,6 +149,5 @@ with open(final_output_file_path, 'w') as final_file:
             final_file.write("Promedio final de celda ({}, {}): {}\n".format(x, y, final_average_per_cell[y, x]))
 
 # Liberar los recursos y cerrar la ventana
-capture.release()
 output_video.release()
 cv2.destroyAllWindows()

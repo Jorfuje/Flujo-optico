@@ -5,8 +5,8 @@ import os
 window = "Lucas-Kanade Optical Flow"
 video_path = "ParteCuatro/LK/ascensor/output.mp4"
 output_video_path = "videos/LK.mp4"
-promedios_file = "promedio_final_por_celdaLK.txt"
-output_folder = "imagenes_iteracionLK"
+promedios_file = "promedios/elevador/LK.txt"
+output_folder = "imagenes_salida/elevador/LK"  
 
 # Crear la carpeta para almacenar las imágenes por iteración si no existe
 if not os.path.exists(output_folder):
@@ -159,6 +159,12 @@ while True:
     # Si la tecla es ESC, salir
     if key == 27:
         break
+    
+    # Escribir el cuadro en el video de salida
+    output_video.write(frame)
+
+    # Mostrar la imagen con la cuadrícula
+    cv2.imshow(window, frame)
 
 # Liberar los recursos y cerrar la ventana
 capture.release()

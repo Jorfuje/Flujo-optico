@@ -49,7 +49,7 @@ def obtener_indices_region_interes():
     return inicio_fila, fin_fila, inicio_columna, fin_columna
 
 if __name__ == "__main__":
-    video_path = "ParteCuatro/HS/output.mp4"
+    video_path = "finales/HS/ascensor/output.mp4"
     capture = cv2.VideoCapture(video_path)
 
     width = int(capture.get(cv2.CAP_PROP_FRAME_WIDTH))

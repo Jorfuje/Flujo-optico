@@ -22,7 +22,7 @@ if __name__ == "__main__":
     imagenes_paths = [os.path.join(imagenes_dir, filename) for filename in imagenes_files]
 
     # Crear o abrir un archivo de texto para guardar la información
-    output_file = open("promedios/elevador/LK.txt", "w")
+    # output_file = open("promedios/elevador/HSFull.txt", "w")
 
     # Inicializar listas para almacenar los promedios de magnitud por celda
     promedios_magnitud_por_celda = []
@@ -65,8 +65,8 @@ if __name__ == "__main__":
                 magnitudes_por_celda.append(promedio_magnitud)
 
                 # Escribir la información en el archivo de texto
-                output_file.write(f"Para la celda ({i}, {j}) de las imágenes {image1_path} y {image2_path}:\n")
-                output_file.write(f"Promedio de magnitud: {promedio_magnitud}\n\n")
+                # output_file.write(f"Para la celda ({i}, {j}) de las imágenes {image1_path} y {image2_path}:\n")
+                # output_file.write(f"Promedio de magnitud: {promedio_magnitud}\n\n")
 
         # Agregar los promedios de magnitud por celda a la lista
         promedios_magnitud_por_celda.append(magnitudes_por_celda)
@@ -75,11 +75,11 @@ if __name__ == "__main__":
     promedios_finales_celda = np.mean(np.array(promedios_magnitud_por_celda), axis=0)
 
     # Guardar los promedios finales por celda en un archivo
-    with open("promedioCeldas.txt", "w") as output_celdas_file:
+    with open("promedios/elevador/HS.txt", "w") as output_celdas_file:
         for i in range(grid_size):
             for j in range(grid_size):
                 output_celdas_file.write(f"Promedio final de celda ({i}, {j}): {promedios_finales_celda[i * grid_size + j]}\n")
 
     # Cerrar el archivo de texto
-    output_file.close()
+    # output_file.close()
  

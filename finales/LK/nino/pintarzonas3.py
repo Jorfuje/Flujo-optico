@@ -2,10 +2,8 @@ import cv2
 import numpy as np
 
 window = "Lucas-Kanade Optical Flow"
-video_path = "ParteCuatro/LK/ascensor/output.mp4"
+video_path = "ParteCuatro/LK/nino/nino.mp4"
 output_video_path = "videos/LK.mp4"
-output_file_path = "promedio_por_celda_por_frameLK.txt"
-final_output_file_path = "promedio_final_por_celdaLKv.txt"
 
 capture = cv2.VideoCapture(video_path)
 
@@ -33,11 +31,6 @@ old_gray = None
 p0 = None
 blue_vectors_count = 0  # Contador de vectores azules pintados
 iteration_count = 0  # Contador de iteraciones
-cell_magnitude_sum = np.zeros((20, 20))  # Matriz para almacenar la suma de magnitudes por celda
-cell_count = np.zeros((20, 20), dtype=int)  # Matriz para almacenar el conteo de vectores por celda
-
-# Lista para almacenar los promedios por celda por cada par de frames
-cell_averages_per_frame = []
 
 while True:
     # Capturar el cuadro actual del video
@@ -88,14 +81,6 @@ while True:
                     # Registrar los puntos de inicio de los vectores azules
                     if color == (255, 0, 0):
                         blue_start_points.append((int(c), int(d)))
-                        
-                    # Calcular las coordenadas de la celda correspondiente
-                    cell_x = min(int(c // cell_width), 19)
-                    cell_y = min(int(d // cell_height), 19)
-                    
-                    # Actualizar la suma de magnitudes y el conteo de vectores por celda
-                    cell_magnitude_sum[cell_y, cell_x] += magnitude
-                    cell_count[cell_y, cell_x] += 1
                 else:
                     # Remover los puntos de inicio de los vectores que ya no están presentes
                     blue_start_points = [(x, y) for x, y in blue_start_points if any((abs(x - px) > 5 or abs(y - py) > 5) for px, py in good_new)]
@@ -115,7 +100,9 @@ while True:
         cv2.line(frame, (i, 0), (i, height), (0, 255, 255), 1)
     for j in range(0, height, cell_height):
         cv2.line(frame, (0, j), (width, j), (0, 255, 255), 1)
-        
+
+    # Escribir el cuadro en el video de salida
+    output_video.write(frame)
 
     # Mostrar la imagen con la cuadrícula
     cv2.imshow(window, frame)
@@ -135,34 +122,6 @@ while True:
     # Si la tecla es ESC, salir
     if key == 27:
         break
-
-    # Calcular el promedio por celda de la magnitud de los vectores
-    average_magnitude_per_cell = cell_magnitude_sum / np.maximum(cell_count, 1)
-
-    # Guardar el promedio por celda de la magnitud de los vectores en el archivo
-    with open(output_file_path, 'a') as file:
-        file.write("Para cada par de frames:\n")
-        for i in range(len(cell_averages_per_frame) - 1):
-            file.write("Para la celda (x, y) de las imágenes image_{:04d}.jpg y image_{:04d}.jpg:\n".format(i, i + 1))
-            for y in range(20):
-                for x in range(20):
-                    file.write("Para la celda ({}, {}) de las imágenes image_{:04d}.jpg y image_{:04d}.jpg:\n".format(x, y, i, i + 1))
-                    file.write("Promedio de magnitud: {}\n".format(cell_averages_per_frame[i][y, x]))
-            file.write("\n")
-
-
-    # Añadir los promedios por celda a la lista
-    cell_averages_per_frame.append(average_magnitude_per_cell)
-
-# Calcular el promedio final de los promedios por celdas
-final_average_per_cell = np.mean(cell_averages_per_frame, axis=0)
-
-# Guardar el promedio final de los promedios por celdas en el archivo final
-with open(final_output_file_path, 'w') as final_file:
-    final_file.write("Promedio final por celda:\n")
-    for y in range(20):
-        for x in range(20):
-            final_file.write("Promedio final de celda ({}, {}): {}\n".format(x, y, final_average_per_cell[y, x]))
 
 # Liberar los recursos y cerrar la ventana
 capture.release()
