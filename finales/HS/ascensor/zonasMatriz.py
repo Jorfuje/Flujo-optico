@@ -60,7 +60,7 @@ if __name__ == "__main__":
     total_frames = int(capture.get(cv2.CAP_PROP_FRAME_COUNT))
 
     fourcc = cv2.VideoWriter_fourcc(*'mp4v') if cv2.VideoWriter_fourcc(*'mp4v') != -1 else cv2.VideoWriter_fourcc(*'avc1')
-    output_video_path = "videos/HSF.mp4"
+    output_video_path = "videos/HSelevador.mp4"
     output_video = cv2.VideoWriter(output_video_path, fourcc, fps, (width, height))  # Establecer la misma FPS para el video de salida
 
     cv2.namedWindow("Flujo óptico")
