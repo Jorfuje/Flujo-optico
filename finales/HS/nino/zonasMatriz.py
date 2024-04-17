@@ -29,7 +29,7 @@ def sumar_cinco_a_promedios(promedio_file, grid_size):
     new_promedios = []
     for line in lines:
         promedio = float(line.split(':')[-1].strip())
-        new_promedio = promedio + 15
+        new_promedio = promedio + 12.5
         new_promedios.append(new_promedio)
     
     # Ajustar el tamaño de new_promedios si es necesario
@@ -39,7 +39,7 @@ def sumar_cinco_a_promedios(promedio_file, grid_size):
 
     return new_promedios
 
-def obtener_indices_region_interes():
+def obtener_indices_region_interes(): 
     # Coordenadas de inicio y fin de la región de interés
     inicio = (0, 4)  # Filas de 0 a 16, Columnas de 4 a 18
     fin = (18, 8)
@@ -73,7 +73,7 @@ if __name__ == "__main__":
     ret, old_frame = capture.read()  # Leer el primer frame
     frame = old_frame.copy()
 
-    scale_factor = 0.5
+    scale_factor = 2
     threshold = 4
 
     promedio_file = "promedios/nino/HS.txt"
@@ -118,7 +118,7 @@ if __name__ == "__main__":
                     if color == (0, 0, 255):
                         blue_start_points.append((int((x) // cell_width), int((y) // cell_height)))
                         
-                    cv2.arrowedLine(frame, (x, y), (x + cell_width, y + cell_height), color, 1, tipLength=0.5)
+                    cv2.arrowedLine(frame, (x, y), (int(x + scale_factor * u[y, x]), int(y + scale_factor * v[y, x])), color, 1, tipLength=0.5)
 
                 # if inicio_fila <= y < fin_fila and inicio_columna <= x < fin_columna:
                 #     print(inicio_fila , y //20 , fin_fila, 'fila' )
