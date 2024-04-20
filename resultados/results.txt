@@ -1,0 +1,274 @@
+Iteración 1:
+Matriz de Confusión para iteracion_42.txt vs iteracion_42.txt:
+[[  0  81]
+ [  0 319]]
+Accuracy para iteracion_42.txt vs iteracion_42.txt: 0.7975
+
+Iteración 2:
+Matriz de Confusión para iteracion_12.txt vs iteracion_12.txt:
+[[  0   0]
+ [  5 395]]
+Accuracy para iteracion_12.txt vs iteracion_12.txt: 0.9875
+
+Iteración 3:
+Matriz de Confusión para iteracion_23.txt vs iteracion_23.txt:
+[[  0   0]
+ [  0 400]]
+Accuracy para iteracion_23.txt vs iteracion_23.txt: 1.0000
+
+Iteración 4:
+Matriz de Confusión para iteracion_41.txt vs iteracion_41.txt:
+[[ 33  19]
+ [  9 339]]
+Accuracy para iteracion_41.txt vs iteracion_41.txt: 0.9300
+
+Iteración 5:
+Matriz de Confusión para iteracion_40.txt vs iteracion_40.txt:
+[[ 38  17]
+ [  4 341]]
+Accuracy para iteracion_40.txt vs iteracion_40.txt: 0.9475
+
+Iteración 6:
+Matriz de Confusión para iteracion_43.txt vs iteracion_43.txt:
+[[  0  47]
+ [  0 353]]
+Accuracy para iteracion_43.txt vs iteracion_43.txt: 0.8825
+
+Iteración 7:
+Matriz de Confusión para iteracion_30.txt vs iteracion_30.txt:
+[[  0   0]
+ [  2 398]]
+Accuracy para iteracion_30.txt vs iteracion_30.txt: 0.9950
+
+Iteración 8:
+Matriz de Confusión para iteracion_10.txt vs iteracion_10.txt:
+[[  0   0]
+ [  9 391]]
+Accuracy para iteracion_10.txt vs iteracion_10.txt: 0.9775
+
+Iteración 9:
+Matriz de Confusión para iteracion_6.txt vs iteracion_6.txt:
+[[  0   0]
+ [  0 400]]
+Accuracy para iteracion_6.txt vs iteracion_6.txt: 1.0000
+
+Iteración 10:
+Matriz de Confusión para iteracion_7.txt vs iteracion_7.txt:
+[[  0   0]
+ [  0 400]]
+Accuracy para iteracion_7.txt vs iteracion_7.txt: 1.0000
+
+Iteración 11:
+Matriz de Confusión para iteracion_8.txt vs iteracion_8.txt:
+[[  0   0]
+ [  0 400]]
+Accuracy para iteracion_8.txt vs iteracion_8.txt: 1.0000
+
+Iteración 12:
+Matriz de Confusión para iteracion_34.txt vs iteracion_34.txt:
+[[  0   0]
+ [  3 397]]
+Accuracy para iteracion_34.txt vs iteracion_34.txt: 0.9925
+
+Iteración 13:
+Matriz de Confusión para iteracion_13.txt vs iteracion_13.txt:
+[[  0   0]
+ [  0 400]]
+Accuracy para iteracion_13.txt vs iteracion_13.txt: 1.0000
+
+Iteración 14:
+Matriz de Confusión para iteracion_27.txt vs iteracion_27.txt:
+[[  0   0]
+ [  0 400]]
+Accuracy para iteracion_27.txt vs iteracion_27.txt: 1.0000
+
+Iteración 15:
+Matriz de Confusión para iteracion_38.txt vs iteracion_38.txt:
+[[ 35  28]
+ [  7 330]]
+Accuracy para iteracion_38.txt vs iteracion_38.txt: 0.9125
+
+Iteración 16:
+Matriz de Confusión para iteracion_31.txt vs iteracion_31.txt:
+[[  0   0]
+ [  0 400]]
+Accuracy para iteracion_31.txt vs iteracion_31.txt: 1.0000
+
+Iteración 17:
+Matriz de Confusión para iteracion_36.txt vs iteracion_36.txt:
+[[ 29   3]
+ [  2 366]]
+Accuracy para iteracion_36.txt vs iteracion_36.txt: 0.9875
+
+Iteración 18:
+Matriz de Confusión para iteracion_9.txt vs iteracion_9.txt:
+[[  0   0]
+ [  0 400]]
+Accuracy para iteracion_9.txt vs iteracion_9.txt: 1.0000
+
+Iteración 19:
+Matriz de Confusión para iteracion_33.txt vs iteracion_33.txt:
+[[  0   0]
+ [  0 400]]
+Accuracy para iteracion_33.txt vs iteracion_33.txt: 1.0000
+
+Iteración 20:
+Matriz de Confusión para iteracion_17.txt vs iteracion_17.txt:
+[[  0   0]
+ [  0 400]]
+Accuracy para iteracion_17.txt vs iteracion_17.txt: 1.0000
+
+Iteración 21:
+Matriz de Confusión para iteracion_14.txt vs iteracion_14.txt:
+[[  0   0]
+ [  2 398]]
+Accuracy para iteracion_14.txt vs iteracion_14.txt: 0.9950
+
+Iteración 22:
+Matriz de Confusión para iteracion_4.txt vs iteracion_4.txt:
+[[  0   0]
+ [  0 400]]
+Accuracy para iteracion_4.txt vs iteracion_4.txt: 1.0000
+
+Iteración 23:
+Matriz de Confusión para iteracion_39.txt vs iteracion_39.txt:
+[[ 45  32]
+ [  3 320]]
+Accuracy para iteracion_39.txt vs iteracion_39.txt: 0.9125
+
+Iteración 24:
+Matriz de Confusión para iteracion_2.txt vs iteracion_2.txt:
+[[  0   0]
+ [  0 400]]
+Accuracy para iteracion_2.txt vs iteracion_2.txt: 1.0000
+
+Iteración 25:
+Matriz de Confusión para iteracion_0.txt vs iteracion_0.txt:
+[[  0   0]
+ [  0 400]]
+Accuracy para iteracion_0.txt vs iteracion_0.txt: 1.0000
+
+Iteración 26:
+Matriz de Confusión para iteracion_28.txt vs iteracion_28.txt:
+[[  0   0]
+ [  0 400]]
+Accuracy para iteracion_28.txt vs iteracion_28.txt: 1.0000
+
+Iteración 27:
+Matriz de Confusión para iteracion_19.txt vs iteracion_19.txt:
+[[  0   0]
+ [  0 400]]
+Accuracy para iteracion_19.txt vs iteracion_19.txt: 1.0000
+
+Iteración 28:
+Matriz de Confusión para iteracion_3.txt vs iteracion_3.txt:
+[[  0   0]
+ [  0 400]]
+Accuracy para iteracion_3.txt vs iteracion_3.txt: 1.0000
+
+Iteración 29:
+Matriz de Confusión para iteracion_18.txt vs iteracion_18.txt:
+[[  0   0]
+ [  5 395]]
+Accuracy para iteracion_18.txt vs iteracion_18.txt: 0.9875
+
+Iteración 30:
+Matriz de Confusión para iteracion_44.txt vs iteracion_44.txt:
+[[  0  11]
+ [  0 389]]
+Accuracy para iteracion_44.txt vs iteracion_44.txt: 0.9725
+
+Iteración 31:
+Matriz de Confusión para iteracion_24.txt vs iteracion_24.txt:
+[[  0   0]
+ [  3 397]]
+Accuracy para iteracion_24.txt vs iteracion_24.txt: 0.9925
+
+Iteración 32:
+Matriz de Confusión para iteracion_25.txt vs iteracion_25.txt:
+[[  0   0]
+ [  2 398]]
+Accuracy para iteracion_25.txt vs iteracion_25.txt: 0.9950
+
+Iteración 33:
+Matriz de Confusión para iteracion_15.txt vs iteracion_15.txt:
+[[  6   0]
+ [  4 390]]
+Accuracy para iteracion_15.txt vs iteracion_15.txt: 0.9900
+
+Iteración 34:
+Matriz de Confusión para iteracion_21.txt vs iteracion_21.txt:
+[[  0   0]
+ [  2 398]]
+Accuracy para iteracion_21.txt vs iteracion_21.txt: 0.9950
+
+Iteración 35:
+Matriz de Confusión para iteracion_22.txt vs iteracion_22.txt:
+[[  0   0]
+ [  3 397]]
+Accuracy para iteracion_22.txt vs iteracion_22.txt: 0.9925
+
+Iteración 36:
+Matriz de Confusión para iteracion_16.txt vs iteracion_16.txt:
+[[  0   0]
+ [  0 400]]
+Accuracy para iteracion_16.txt vs iteracion_16.txt: 1.0000
+
+Iteración 37:
+Matriz de Confusión para iteracion_26.txt vs iteracion_26.txt:
+[[  0   0]
+ [  0 400]]
+Accuracy para iteracion_26.txt vs iteracion_26.txt: 1.0000
+
+Iteración 38:
+Matriz de Confusión para iteracion_29.txt vs iteracion_29.txt:
+[[  0   0]
+ [  0 400]]
+Accuracy para iteracion_29.txt vs iteracion_29.txt: 1.0000
+
+Iteración 39:
+Matriz de Confusión para iteracion_32.txt vs iteracion_32.txt:
+[[  0   0]
+ [  2 398]]
+Accuracy para iteracion_32.txt vs iteracion_32.txt: 0.9950
+
+Iteración 40:
+Matriz de Confusión para iteracion_11.txt vs iteracion_11.txt:
+[[  0   0]
+ [  7 393]]
+Accuracy para iteracion_11.txt vs iteracion_11.txt: 0.9825
+
+Iteración 41:
+Matriz de Confusión para iteracion_35.txt vs iteracion_35.txt:
+[[  2   0]
+ [  3 395]]
+Accuracy para iteracion_35.txt vs iteracion_35.txt: 0.9925
+
+Iteración 42:
+Matriz de Confusión para iteracion_5.txt vs iteracion_5.txt:
+[[  0   0]
+ [  0 400]]
+Accuracy para iteracion_5.txt vs iteracion_5.txt: 1.0000
+
+Iteración 43:
+Matriz de Confusión para iteracion_37.txt vs iteracion_37.txt:
+[[ 35  24]
+ [  7 334]]
+Accuracy para iteracion_37.txt vs iteracion_37.txt: 0.9225
+
+Iteración 44:
+Matriz de Confusión para iteracion_1.txt vs iteracion_1.txt:
+[[  0   0]
+ [  0 400]]
+Accuracy para iteracion_1.txt vs iteracion_1.txt: 1.0000
+
+Iteración 45:
+Matriz de Confusión para iteracion_20.txt vs iteracion_20.txt:
+[[  0   0]
+ [  0 400]]
+Accuracy para iteracion_20.txt vs iteracion_20.txt: 1.0000
+
+Matriz de Confusión Promedio:
+[[  4.95555556   5.82222222]
+ [  1.86666667 387.35555556]]
+Accuracy Promedio: 0.9808
