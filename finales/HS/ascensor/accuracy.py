@@ -35,6 +35,14 @@ for file_name in confusion_matrix_files:
 # Ordenar el diccionario por número de iteración
 accuracy_matrix_sorted = dict(sorted(accuracy_matrix.items(), key=lambda x: int(x[0].split("_")[-1].split(".")[0])))
 
+# Extraer solo los valores de precisión
+accuracy_values = list(accuracy_matrix_sorted.values())
+
+# Guardar los valores en un nuevo documento llamado "metricas"
+with open('metricas/elevador/HS/metricas.txt', 'w') as file:
+    file.write("accuracy = " + str(accuracy_values))
+
+
 # Guardar la matriz de precisión en un archivo de texto
 with open(accuracy_matrix_file, "w") as f:
     for file_name, accuracy in accuracy_matrix_sorted.items():

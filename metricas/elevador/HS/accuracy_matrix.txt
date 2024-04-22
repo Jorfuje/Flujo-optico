@@ -1,45 +1,45 @@
-confusion_matrix_iteracion_0.txt: 1.0000
-confusion_matrix_iteracion_1.txt: 1.0000
-confusion_matrix_iteracion_2.txt: 1.0000
-confusion_matrix_iteracion_3.txt: 1.0000
-confusion_matrix_iteracion_4.txt: 1.0000
-confusion_matrix_iteracion_5.txt: 1.0000
-confusion_matrix_iteracion_6.txt: 1.0000
-confusion_matrix_iteracion_7.txt: 1.0000
-confusion_matrix_iteracion_8.txt: 1.0000
-confusion_matrix_iteracion_9.txt: 1.0000
-confusion_matrix_iteracion_10.txt: 0.9775
-confusion_matrix_iteracion_11.txt: 0.9825
-confusion_matrix_iteracion_12.txt: 0.9875
-confusion_matrix_iteracion_13.txt: 1.0000
-confusion_matrix_iteracion_14.txt: 0.9950
-confusion_matrix_iteracion_15.txt: 0.9900
-confusion_matrix_iteracion_16.txt: 1.0000
-confusion_matrix_iteracion_17.txt: 1.0000
-confusion_matrix_iteracion_18.txt: 0.9875
-confusion_matrix_iteracion_19.txt: 1.0000
-confusion_matrix_iteracion_20.txt: 1.0000
-confusion_matrix_iteracion_21.txt: 0.9950
-confusion_matrix_iteracion_22.txt: 0.9925
-confusion_matrix_iteracion_23.txt: 1.0000
-confusion_matrix_iteracion_24.txt: 0.9925
-confusion_matrix_iteracion_25.txt: 0.9950
-confusion_matrix_iteracion_26.txt: 1.0000
-confusion_matrix_iteracion_27.txt: 1.0000
-confusion_matrix_iteracion_28.txt: 1.0000
-confusion_matrix_iteracion_29.txt: 1.0000
-confusion_matrix_iteracion_30.txt: 0.9950
-confusion_matrix_iteracion_31.txt: 1.0000
-confusion_matrix_iteracion_32.txt: 0.9950
-confusion_matrix_iteracion_33.txt: 1.0000
-confusion_matrix_iteracion_34.txt: 0.9925
-confusion_matrix_iteracion_35.txt: 0.9925
-confusion_matrix_iteracion_36.txt: 0.9875
-confusion_matrix_iteracion_37.txt: 0.9225
-confusion_matrix_iteracion_38.txt: 0.9125
-confusion_matrix_iteracion_39.txt: 0.9125
-confusion_matrix_iteracion_40.txt: 0.9475
-confusion_matrix_iteracion_41.txt: 0.9300
-confusion_matrix_iteracion_42.txt: 0.7975
-confusion_matrix_iteracion_43.txt: 0.8825
-confusion_matrix_iteracion_44.txt: 0.9725
+confusion_matrix_iteracion_0.txt: Accuracy = 1.0000, Precision = 0.0000, Recall = 0.0000, Measure = 0.0000
+confusion_matrix_iteracion_1.txt: Accuracy = 1.0000, Precision = 0.0000, Recall = 0.0000, Measure = 0.0000
+confusion_matrix_iteracion_2.txt: Accuracy = 1.0000, Precision = 0.0000, Recall = 0.0000, Measure = 0.0000
+confusion_matrix_iteracion_3.txt: Accuracy = 1.0000, Precision = 0.0000, Recall = 0.0000, Measure = 0.0000
+confusion_matrix_iteracion_4.txt: Accuracy = 1.0000, Precision = 0.0000, Recall = 0.0000, Measure = 0.0000
+confusion_matrix_iteracion_5.txt: Accuracy = 1.0000, Precision = 0.0000, Recall = 0.0000, Measure = 0.0000
+confusion_matrix_iteracion_6.txt: Accuracy = 1.0000, Precision = 0.0000, Recall = 0.0000, Measure = 0.0000
+confusion_matrix_iteracion_7.txt: Accuracy = 1.0000, Precision = 0.0000, Recall = 0.0000, Measure = 0.0000
+confusion_matrix_iteracion_8.txt: Accuracy = 1.0000, Precision = 0.0000, Recall = 0.0000, Measure = 0.0000
+confusion_matrix_iteracion_9.txt: Accuracy = 1.0000, Precision = 0.0000, Recall = 0.0000, Measure = 0.0000
+confusion_matrix_iteracion_10.txt: Accuracy = 0.9775, Precision = 0.0000, Recall = 0.0000, Measure = 0.0000
+confusion_matrix_iteracion_11.txt: Accuracy = 0.9825, Precision = 0.0000, Recall = 0.0000, Measure = 0.0000
+confusion_matrix_iteracion_12.txt: Accuracy = 0.9875, Precision = 0.0000, Recall = 0.0000, Measure = 0.0000
+confusion_matrix_iteracion_13.txt: Accuracy = 1.0000, Precision = 0.0000, Recall = 0.0000, Measure = 0.0000
+confusion_matrix_iteracion_14.txt: Accuracy = 0.9950, Precision = 0.0000, Recall = 0.0000, Measure = 0.0000
+confusion_matrix_iteracion_15.txt: Accuracy = 0.9900, Precision = 0.6000, Recall = 1.0000, Measure = 0.7500
+confusion_matrix_iteracion_16.txt: Accuracy = 1.0000, Precision = 0.0000, Recall = 0.0000, Measure = 0.0000
+confusion_matrix_iteracion_17.txt: Accuracy = 1.0000, Precision = 0.0000, Recall = 0.0000, Measure = 0.0000
+confusion_matrix_iteracion_18.txt: Accuracy = 0.9875, Precision = 0.0000, Recall = 0.0000, Measure = 0.0000
+confusion_matrix_iteracion_19.txt: Accuracy = 1.0000, Precision = 0.0000, Recall = 0.0000, Measure = 0.0000
+confusion_matrix_iteracion_20.txt: Accuracy = 1.0000, Precision = 0.0000, Recall = 0.0000, Measure = 0.0000
+confusion_matrix_iteracion_21.txt: Accuracy = 0.9950, Precision = 0.0000, Recall = 0.0000, Measure = 0.0000
+confusion_matrix_iteracion_22.txt: Accuracy = 0.9925, Precision = 0.0000, Recall = 0.0000, Measure = 0.0000
+confusion_matrix_iteracion_23.txt: Accuracy = 1.0000, Precision = 0.0000, Recall = 0.0000, Measure = 0.0000
+confusion_matrix_iteracion_24.txt: Accuracy = 0.9925, Precision = 0.0000, Recall = 0.0000, Measure = 0.0000
+confusion_matrix_iteracion_25.txt: Accuracy = 0.9950, Precision = 0.0000, Recall = 0.0000, Measure = 0.0000
+confusion_matrix_iteracion_26.txt: Accuracy = 1.0000, Precision = 0.0000, Recall = 0.0000, Measure = 0.0000
+confusion_matrix_iteracion_27.txt: Accuracy = 1.0000, Precision = 0.0000, Recall = 0.0000, Measure = 0.0000
+confusion_matrix_iteracion_28.txt: Accuracy = 1.0000, Precision = 0.0000, Recall = 0.0000, Measure = 0.0000
+confusion_matrix_iteracion_29.txt: Accuracy = 1.0000, Precision = 0.0000, Recall = 0.0000, Measure = 0.0000
+confusion_matrix_iteracion_30.txt: Accuracy = 0.9950, Precision = 0.0000, Recall = 0.0000, Measure = 0.0000
+confusion_matrix_iteracion_31.txt: Accuracy = 1.0000, Precision = 0.0000, Recall = 0.0000, Measure = 0.0000
+confusion_matrix_iteracion_32.txt: Accuracy = 0.9950, Precision = 0.0000, Recall = 0.0000, Measure = 0.0000
+confusion_matrix_iteracion_33.txt: Accuracy = 1.0000, Precision = 0.0000, Recall = 0.0000, Measure = 0.0000
+confusion_matrix_iteracion_34.txt: Accuracy = 0.9925, Precision = 0.0000, Recall = 0.0000, Measure = 0.0000
+confusion_matrix_iteracion_35.txt: Accuracy = 0.9925, Precision = 0.4000, Recall = 1.0000, Measure = 0.5714
+confusion_matrix_iteracion_36.txt: Accuracy = 0.9875, Precision = 0.9355, Recall = 0.9062, Measure = 0.9206
+confusion_matrix_iteracion_37.txt: Accuracy = 0.9225, Precision = 0.8333, Recall = 0.5932, Measure = 0.6931
+confusion_matrix_iteracion_38.txt: Accuracy = 0.9125, Precision = 0.8333, Recall = 0.5556, Measure = 0.6667
+confusion_matrix_iteracion_39.txt: Accuracy = 0.9125, Precision = 0.9375, Recall = 0.5844, Measure = 0.7200
+confusion_matrix_iteracion_40.txt: Accuracy = 0.9475, Precision = 0.9048, Recall = 0.6909, Measure = 0.7835
+confusion_matrix_iteracion_41.txt: Accuracy = 0.9300, Precision = 0.7857, Recall = 0.6346, Measure = 0.7021
+confusion_matrix_iteracion_42.txt: Accuracy = 0.7975, Precision = 0.0000, Recall = 0.0000, Measure = 0.0000
+confusion_matrix_iteracion_43.txt: Accuracy = 0.8825, Precision = 0.0000, Recall = 0.0000, Measure = 0.0000
+confusion_matrix_iteracion_44.txt: Accuracy = 0.9725, Precision = 0.0000, Recall = 0.0000, Measure = 0.0000
