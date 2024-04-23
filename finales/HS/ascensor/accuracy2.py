@@ -53,7 +53,7 @@ def calculate_measure(confusion_matrix):
 
 
 confusion_matrices_folder = "matrices_confusion/elevador/HS"
-accuracy_matrix_file = "metricas/elevador/HS/accuracy_matrix.txt"
+accuracy_matrix_file = "metricas/elevador/HS/accuracy_matrixHS.txt"
 
 confusion_matrix_files = os.listdir(confusion_matrices_folder)
 
@@ -93,11 +93,11 @@ recall_values = list(recall_matrix_sorted.values())  # Extraer solo los valores 
 measure_values = list(measure_matrix_sorted.values())  # Extraer solo los valores de measure
 
 # Guardar los valores de precisión en un nuevo documento llamado "metricas"
-with open('metricas/elevador/HS/metricas.txt', 'w') as file:
-    file.write("accuracy = " + str(accuracy_values) + "\n")
-    file.write("precision = " + str(precision_values) + "\n")
-    file.write("recall = " + str(recall_values) + "\n")
-    file.write("measure = " + str(measure_values) + "\n")
+with open('metricas/elevador/HS/metricasHS.txt', 'w') as file:
+    file.write("accuracyHS = " + str(accuracy_values) + "\n")
+    file.write("precisionHS = " + str(precision_values) + "\n")
+    file.write("recallHS = " + str(recall_values) + "\n")
+    file.write("measureHS = " + str(measure_values) + "\n")
 
 # Guardar la matriz de precisión en un archivo de texto
 with open(accuracy_matrix_file, "w") as f:
@@ -155,7 +155,7 @@ metricas = {
 }
 
 # Nombre del archivo de salida
-archivo_salida = "metricas/elevador/HS/metricas.csv"
+archivo_salida = "metricas/elevador/HS/metricasHS.csv"
 
 # Escribir los datos en el archivo CSV
 with open(archivo_salida, mode='w', newline='') as file:
