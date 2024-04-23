@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 window = "Lucas-Kanade Optical Flow"
-video_path = "TerceraParte/cortado.mp4"
+video_path = "TerceraParte/viejo.mp4"
 output_video_path = "videos/LK.mp4"
 
 capture = cv2.VideoCapture(video_path)
@@ -109,6 +109,9 @@ while True:
 
     # Imprimir el número de iteración y el número de vectores azules pintados en esta iteración
     print("Iteración:", iteration_count, "- Número de vectores azules pintados:", blue_vectors_count)
+    
+    # Esperar a que se presione una tecla
+     
 
     # Reiniciar el contador de vectores azules para la próxima iteración
     blue_vectors_count = 0
