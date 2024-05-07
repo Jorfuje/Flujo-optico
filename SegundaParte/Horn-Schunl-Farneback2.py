@@ -13,7 +13,7 @@ def horn_schunck_real_time(I1, I2, alpha, iterations):
     return u, v
 
 if __name__ == "__main__":
-    video_path = "SegundaParte/video.mp4"  # Cambia 'ruta_del_video.mp4' con la ubicación de tu video
+    video_path = "SegundaParte/nino.mp4"  # Cambia 'ruta_del_video.mp4' con la ubicación de tu video
     capture = cv2.VideoCapture(video_path)
 
     width = int(capture.get(cv2.CAP_PROP_FRAME_WIDTH))

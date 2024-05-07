@@ -168,11 +168,11 @@ with open(archivo_salida, mode='w', newline='') as file:
     for i in range(len(metricas["Métrica"])):
         writer.writerow({
             "Métrica": metricas["Métrica"][i],
-            "Mínimo": metricas["Mínimo"][i],
-            "Máximo": metricas["Máximo"][i],
-            "Media": metricas["Media"][i],
-            "Mediana": metricas["Mediana"][i],
-            "Desviación Estándar": metricas["Desviación Estándar"][i]
+            "Mínimo": round(metricas["Mínimo"][i], 4),
+            "Máximo": round(metricas["Máximo"][i], 4),
+            "Media": round(metricas["Media"][i], 4),
+            "Mediana": round(metricas["Mediana"][i], 4),
+            "Desviación Estándar": round(metricas["Desviación Estándar"][i], 4)
         })
 
 print(f"Los datos de métricas se han guardado en el archivo: {archivo_salida}")

@@ -106,6 +106,7 @@ with open(accuracy_matrix_file, "w") as f:
         recall = recall_matrix_sorted[file_name]  # Obtener la recall correspondiente
         measure = measure_matrix_sorted[file_name]  # Obtener la measure correspondiente
         
+        
         f.write(f"{file_name}: Accuracy = {accuracy:.4f}, Precision = {precision:.4f}, Recall = {recall:.4f}, Measure = {measure:.4f}\n")
 
 # Convertir los valores de las métricas en arrays de NumPy
@@ -168,11 +169,11 @@ with open(archivo_salida, mode='w', newline='') as file:
     for i in range(len(metricas["Métrica"])):
         writer.writerow({
             "Métrica": metricas["Métrica"][i],
-            "Mínimo": metricas["Mínimo"][i],
-            "Máximo": metricas["Máximo"][i],
-            "Media": metricas["Media"][i],
-            "Mediana": metricas["Mediana"][i],
-            "Desviación Estándar": metricas["Desviación Estándar"][i]
+            "Mínimo": round(metricas["Mínimo"][i], 4),
+            "Máximo": round(metricas["Máximo"][i], 4),
+            "Media": round(metricas["Media"][i], 4),
+            "Mediana": round(metricas["Mediana"][i], 4),
+            "Desviación Estándar": round(metricas["Desviación Estándar"][i], 4)
         })
 
 print(f"Los datos de métricas se han guardado en el archivo: {archivo_salida}")
